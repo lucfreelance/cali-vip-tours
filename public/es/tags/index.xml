@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cali VIP Tours</title>
+    <title>Tags on Cali VIP Tours ES</title>
     <link>cali-vip-tours.vercel.app/es/tags/</link>
-    <description>Recent content in Tags on Cali VIP Tours</description>
+    <description>Recent content in Tags on Cali VIP Tours ES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="cali-vip-tours.vercel.app/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="cali-vip-tours.vercel.app/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scene</title>
+      <link>cali-vip-tours.vercel.app/es/tags/scene/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>cali-vip-tours.vercel.app/es/tags/scene/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cali VIP Tours</title>
+    <title>Ananke: Un tema para Hugo on Cali VIP Tours ES</title>
     <link>cali-vip-tours.vercel.app/es/</link>
-    <description>Recent content on Cali VIP Tours</description>
+    <description>Recent content in Ananke: Un tema para Hugo on Cali VIP Tours ES</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="cali-vip-tours.vercel.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="cali-vip-tours.vercel.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capítulo I: La Gran Sala</title>
+      <link>cali-vip-tours.vercel.app/es/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>cali-vip-tours.vercel.app/es/post/chapter-1/</guid>
+      <description>Generalmente, se utiliza un texto en latín falso (el texto no tiene ningún significado real, ha sido modificado), el Lorem ipsum o Lipsum, que sirve como texto de relleno. La ventaja de usarlo en latín es que el operador puede darse cuenta de inmediato de que la página que contiene estas líneas no es válida, y sobre todo la atención del cliente no se ve perturbada por el contenido, sino que permanece enfocada únicamente en el aspecto gráfico.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>cali-vip-tours.vercel.app/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>cali-vip-tours.vercel.app/es/contact/</guid>
+      <description>Esta es la página de contacto en Español.
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree por un simple, servicio de libre forma.
+Tu nombre Dirección de correo electrónico Se requiere una dirección de correo electrónico.  Mensaje   </description>
+    </item>
+    
   </channel>
 </rss>
