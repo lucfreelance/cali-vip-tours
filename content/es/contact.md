@@ -1,15 +1,14 @@
 ---
 title: Contacto
-featured_image: ''
+featured_image: ""
 omit_header_text: true
 description: Envianos un mensajito!
 type: page
 menu: main
-
 ---
 
 Esta es la página de contacto en Español.
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) por un simple, servicio de libre forma.
+Este es un ejemplo de un shortcode personalizado que puedes colocar directamente en tu contenido. Deberás agregar una acción de formulario al shortcode para que funcione. Echa un vistazo a [Formspree](https://formspree.io/) para obtener un servicio sencillo de formularios gratuitos.
 
 {{< form-contact action="https://example.com"  >}}

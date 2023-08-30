@@ -1,6 +1,6 @@
 baseURL = 'cali-vip-tours.vercel.app'
 languageCode = 'en-us'
-title = 'Cali VIP Tours Colombia'
+title = 'Cali VIP Tours - Colombia'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources"
 

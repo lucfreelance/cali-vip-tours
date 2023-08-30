@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>cali-vip-tours.vercel.app/es/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,111 @@
                 rel="alternate"
                 hreflang="es"
                 href="cali-vip-tours.vercel.app/es/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/post/chapter-6/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/post/chapter-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/post/chapter-6/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/post/chapter-5/</loc>
+    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/post/chapter-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/post/chapter-5/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/post/chapter-4/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/post/chapter-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/post/chapter-4/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/tags/scene/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/tags/scene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/tags/scene/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/tags/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/tags/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/post/chapter-3/</loc>
+    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/post/chapter-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/post/chapter-3/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/post/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/post/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/post/chapter-2/"
                 />
   </url><url>
     <loc>cali-vip-tours.vercel.app/es/post/chapter-1/</loc>
@@ -32,36 +137,6 @@
                 href="cali-vip-tours.vercel.app/es/post/chapter-1/"
                 />
   </url><url>
-    <loc>cali-vip-tours.vercel.app/es/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/tags/scene/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/tags/"
-                />
-  </url><url>
     <loc>cali-vip-tours.vercel.app/es/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -75,6 +150,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="cali-vip-tours.vercel.app/es/post/"
+                />
+  </url><url>
+    <loc>cali-vip-tours.vercel.app/es/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="cali-vip-tours.vercel.app/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="cali-vip-tours.vercel.app/es/about/"
                 />
   </url><url>
     <loc>cali-vip-tours.vercel.app/es/categories/</loc>
