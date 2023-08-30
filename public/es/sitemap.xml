@@ -16,20 +16,6 @@
                 href="https://cali-vip-tours.netlify.app/es/about/"
                 />
   </url><url>
-    <loc>https://cali-vip-tours.netlify.app/es/post/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/"
-                />
-  </url><url>
     <loc>https://cali-vip-tours.netlify.app/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -182,6 +168,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://cali-vip-tours.netlify.app/es/tags/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/"
                 />
   </url>
 </urlset>
