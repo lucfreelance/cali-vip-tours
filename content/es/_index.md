@@ -1,9 +1,8 @@
 ---
-title: "Ananke: Un gran tema Hugo"
-
-description: "El último tema que podrías necesitar. Tal vez"
+title: "Cali VIP Tours - ES"
+description: "Es todo sobre la experiencia"
 cascade:
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
-Bienvenido a mi blog sobre mi trabajo actual. Estoy trabajando en una idea para un libro. Puedes leer algunos capítulos más abajo.
+Bienvenido a Cali VIP Tours ES: Es todo sobre la experiencia.

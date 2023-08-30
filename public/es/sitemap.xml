@@ -2,196 +2,188 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>cali-vip-tours.vercel.app/es/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-6/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-5/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-4/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/tags/scene/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/tags/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-3/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-2/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="cali-vip-tours.vercel.app/post/chapter-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/chapter-1/"
-                />
-  </url><url>
-    <loc>cali-vip-tours.vercel.app/es/post/</loc>
+    <loc>https://cali-vip-tours.netlify.app/es/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="cali-vip-tours.vercel.app/post/"
+                href="https://cali-vip-tours.netlify.app/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="cali-vip-tours.vercel.app/es/post/"
+                href="https://cali-vip-tours.netlify.app/es/post/"
                 />
   </url><url>
-    <loc>cali-vip-tours.vercel.app/es/about/</loc>
+    <loc>https://cali-vip-tours.netlify.app/es/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="cali-vip-tours.vercel.app/about/"
+                href="https://cali-vip-tours.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="cali-vip-tours.vercel.app/es/about/"
+                href="https://cali-vip-tours.netlify.app/es/"
                 />
   </url><url>
-    <loc>cali-vip-tours.vercel.app/es/categories/</loc>
+    <loc>https://cali-vip-tours.netlify.app/es/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="cali-vip-tours.vercel.app/categories/"
+                href="https://cali-vip-tours.netlify.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="cali-vip-tours.vercel.app/es/categories/"
+                href="https://cali-vip-tours.netlify.app/es/about/"
                 />
   </url><url>
-    <loc>cali-vip-tours.vercel.app/es/contact/</loc>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="cali-vip-tours.vercel.app/contact/"
+                href="https://cali-vip-tours.netlify.app/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="cali-vip-tours.vercel.app/es/contact/"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-1/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/chapter-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-2/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/chapter-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-3/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/chapter-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-4/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-5/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/chapter-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-5/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/post/chapter-6/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/chapter-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/chapter-6/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/categories/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/contact/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/tags/scene/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/tags/scene/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/tags/scene/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/es/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/tags/"
                 />
   </url>
 </urlset>
