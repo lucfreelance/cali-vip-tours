@@ -1,6 +1,5 @@
 ---
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+title: "Tours"
 ---
 
-Example of pages of indexes of article.
+Take a look over our brand new featured tours at Cali and near.

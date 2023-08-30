@@ -12,14 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Cali VIP Tours EN"
+    title = "Cali VIP Tours"
     weight = 1
     contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
   [languages.es]
     title = "Cali VIP Tours ES"
     weight = 2
     contentDir = "content/es"
+    # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]
   changefreq = "monthly"
@@ -37,13 +37,13 @@ enableRobotsTXT = true
   recent_posts_number = 6
 
 [[params.ananke_socials]]
-name = "Twitter"
-url = "https://twitter.com/x"
+name = "Instagram"
+url = "https://instagram.com/caliviptours"
 
 [[params.ananke_socials]]
 name = "Facebook"
 url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
 
 [[params.ananke_socials]]
-name = "Instagram"
-url = "https://instagram.com/x"
+name = "Twitter"
+url = "https://twitter.com/caliviptours"

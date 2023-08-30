@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cali-vip-tours.netlify.app/es/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/about/"
+                />
+  </url><url>
     <loc>https://cali-vip-tours.netlify.app/es/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +31,6 @@
                 />
   </url><url>
     <loc>https://cali-vip-tours.netlify.app/es/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,20 +42,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://cali-vip-tours.netlify.app/es/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/es/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/about/"
                 />
   </url><url>
     <loc>https://cali-vip-tours.netlify.app/es/post/chapter-1/</loc>
