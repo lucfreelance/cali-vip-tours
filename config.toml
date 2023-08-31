@@ -1,4 +1,4 @@
-baseURL = 'https://cali-vip-tours.netlify.app/'
+baseURL = 'https://caliviptours.netlify.app/'
 languageCode = 'en-us'
 title = 'Cali VIP Tours - Colombia'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
@@ -16,7 +16,7 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
   [languages.es]
-    title = "Cali VIP Tours ES"
+    title = "Cali VIP Tours en Español"
     weight = 2
     contentDir = "content/es"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -41,9 +41,9 @@ name = "Instagram"
 url = "https://instagram.com/caliviptours"
 
 [[params.ananke_socials]]
-name = "Facebook"
-url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
-
-[[params.ananke_socials]]
 name = "Twitter"
 url = "https://twitter.com/caliviptours"
+
+[[params.ananke_socials]]
+name = "Facebook"
+url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"

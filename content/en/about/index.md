@@ -1,5 +1,5 @@
 ---
-title: "About Cali VIP Tours"
+title: "About Us"
 description: "At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city. Our journey began years ago when, exploring every corner of Cali, we discovered the essence that makes it unique: its ANANKE, its unparalleled spirit."
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:

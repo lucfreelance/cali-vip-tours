@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Cali VIP Tours ES</title>
-    <link>https://cali-vip-tours.netlify.app/es/categories/</link>
-    <description>Recent content in Categories on Cali VIP Tours ES</description>
+    <title>Categories on Cali VIP Tours en Español</title>
+    <link>https://caliviptours.netlify.app/es/categories/</link>
+    <description>Recent content in Categories on Cali VIP Tours en Español</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cali-vip-tours.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://caliviptours.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
