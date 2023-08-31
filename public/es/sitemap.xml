@@ -16,6 +16,104 @@
                 href="https://caliviptours.netlify.app/es/about/"
                 />
   </url><url>
+    <loc>https://caliviptours.netlify.app/es/testimonials/testimonial-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/testimonials/testimonial-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/testimonials/testimonial-2/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/testimonials/testimonial-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/testimonials/testimonial-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/testimonials/testimonial-3/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/tags/blog/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/tags/blog/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/blog/blog-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/blog/blog-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/blog/blog-2/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/blog/blog-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/blog/blog-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/blog/blog-1/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/blog/blog-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/blog/blog-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/blog/blog-3/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/blog/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/blog/"
+                />
+  </url><url>
     <loc>https://caliviptours.netlify.app/es/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,6 +170,20 @@
                 href="https://caliviptours.netlify.app/es/post/private-salsa-lesson-experience/"
                 />
   </url><url>
+    <loc>https://caliviptours.netlify.app/es/testimonials/testimonial-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/testimonials/testimonial-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/testimonials/testimonial-1/"
+                />
+  </url><url>
     <loc>https://caliviptours.netlify.app/es/post/san-cipriano-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -99,6 +211,24 @@
                 hreflang="es"
                 href="https://caliviptours.netlify.app/es/tags/"
                 />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/testimonials/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.netlify.app/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.netlify.app/es/testimonials/"
+                />
+  </url><url>
+    <loc>https://caliviptours.netlify.app/es/tags/testimonios/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://caliviptours.netlify.app/es/post/the-fooding-tour-alameda-market/</loc>
     <changefreq>monthly</changefreq>
