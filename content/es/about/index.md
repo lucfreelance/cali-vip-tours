@@ -1,6 +1,6 @@
 ---
-title: "Acerca de"
-description: "Hace unos años, mientras visitaba o, más bien, exploraba Notre-Dame, el autor de este libro encontró, en un rincón oscuro de una de las torres, la siguiente palabra grabada a mano en la pared: —ANANKE."
+title: "Acerca de Cali VIP Tours"
+description: "En el corazón de Cali VIP Tours, encontramos una pasión desbordante por descubrir los tesoros de nuestra ciudad. Nuestro viaje comenzó hace años cuando, explorando cada rincón de Cali, descubrimos la esencia que la hace única: su ANANKE, su esencia inigualable."
 featured_image: "/images/Victor_Hugo-Hunchback.jpg"
 menu:
   main:
@@ -9,4 +9,10 @@ menu:
 
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) es una novela romántica/gótica francesa escrita por Victor Hugo, publicada en 1831. El título original en francés se refiere a la Catedral de Notre Dame, en torno a la cual gira la historia. El traductor al inglés, Frederic Shoberl, nombró la novela The Hunchback of Notre Dame en 1833 porque en ese momento, las novelas góticas eran más populares que las novelas románticas en Inglaterra. La historia está ambientada en París, Francia, durante la Baja Edad Media, en el reinado de Luis XI.
+{{< figure src="/images/Cali_VIP_Tours_Image.jpg" title="Explora Cali con Estilo" >}}
+
+Cali VIP Tours es un proyecto dedicado a mostrar la esencia de Cali de una manera única. Nuestro enfoque se inspira en la novela romántica/gótica "El Jorobado de Notre Dame" de Victor Hugo, pero en lugar de una catedral antigua, nos centramos en los tesoros contemporáneos de Cali. Fundado en 2023, nuestro equipo se compromete a brindar experiencias que capturen la belleza y la historia de la ciudad en la que florecemos.
+
+Nuestros recorridos te sumergirán en la vibrante vida de Cali, fusionando la rica historia de la ciudad con su modernidad actual. Al igual que el traductor Frederic Shoberl capturó la esencia de una novela en su título, nosotros capturamos la esencia de Cali en cada uno de nuestros tours. Así como la historia de Notre-Dame se desarrolla en la Edad Media, nuestra historia se desarrolla en los encantadores rincones de Cali en la época contemporánea.
+
+Únete a nosotros mientras exploramos las calles llenas de vida de Cali, sumergiéndonos en su cultura, su gastronomía y su gente. Cali VIP Tours te invita a ser parte de nuestra historia mientras descubrimos juntos la magia que esta ciudad tiene para ofrecer.
