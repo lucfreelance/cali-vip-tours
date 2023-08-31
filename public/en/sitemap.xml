@@ -16,6 +16,20 @@
                 href="https://cali-vip-tours.netlify.app/about/"
                 />
   </url><url>
+    <loc>https://cali-vip-tours.netlify.app/post/cali-city-tour/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/cali-city-tour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/cali-city-tour/"
+                />
+  </url><url>
     <loc>https://cali-vip-tours.netlify.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,6 +42,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cali-vip-tours.netlify.app/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/post/cali-walking-tour-downtown/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/cali-walking-tour-downtown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/cali-walking-tour-downtown/"
                 />
   </url><url>
     <loc>https://cali-vip-tours.netlify.app/categories/</loc>
@@ -44,88 +72,18 @@
                 href="https://cali-vip-tours.netlify.app/categories/"
                 />
   </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-1/</loc>
+    <loc>https://cali-vip-tours.netlify.app/post/coffee-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-1/"
+                href="https://cali-vip-tours.netlify.app/es/post/coffee-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-1/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-2/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-3/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-4/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-5/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-5/"
-                />
-  </url><url>
-    <loc>https://cali-vip-tours.netlify.app/post/chapter-6/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/post/chapter-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cali-vip-tours.netlify.app/post/chapter-6/"
+                href="https://cali-vip-tours.netlify.app/post/coffee-tour/"
                 />
   </url><url>
     <loc>https://cali-vip-tours.netlify.app/contact/</loc>
@@ -142,18 +100,18 @@
                 href="https://cali-vip-tours.netlify.app/contact/"
                 />
   </url><url>
-    <loc>https://cali-vip-tours.netlify.app/tags/scene/</loc>
+    <loc>https://cali-vip-tours.netlify.app/post/san-cipriano-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://cali-vip-tours.netlify.app/es/tags/scene/"
+                href="https://cali-vip-tours.netlify.app/es/post/san-cipriano-tour-adventure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cali-vip-tours.netlify.app/tags/scene/"
+                href="https://cali-vip-tours.netlify.app/post/san-cipriano-tour-adventure/"
                 />
   </url><url>
     <loc>https://cali-vip-tours.netlify.app/tags/</loc>
@@ -170,6 +128,34 @@
                 href="https://cali-vip-tours.netlify.app/tags/"
                 />
   </url><url>
+    <loc>https://cali-vip-tours.netlify.app/post/the-fooding-tour-alameda-market/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/the-fooding-tour-alameda-market/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/the-fooding-tour-alameda-market/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/post/private-salsa-lesson-experience/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/post/private-salsa-lesson-experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/post/private-salsa-lesson-experience/"
+                />
+  </url><url>
     <loc>https://cali-vip-tours.netlify.app/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -182,6 +168,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cali-vip-tours.netlify.app/post/"
+                />
+  </url><url>
+    <loc>https://cali-vip-tours.netlify.app/tags/tours/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://cali-vip-tours.netlify.app/es/tags/tours/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cali-vip-tours.netlify.app/tags/tours/"
                 />
   </url>
 </urlset>
