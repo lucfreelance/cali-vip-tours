@@ -1,6 +1,6 @@
 ---
 description: "San Cipriano Tour Adventure"
-featured_image: "/images/san-cipriano-tour-adventure.jpg"
+featured_image: "images/san-cipriano-tour-adventure.jpg"
 tags: ["tours"]
 title: "San Cipriano Tour Adventure"
 ---

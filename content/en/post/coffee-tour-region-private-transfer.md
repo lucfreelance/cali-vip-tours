@@ -1,6 +1,6 @@
 ---
 description: "Coffee Touring Region Private Transfer - Cozzye and Spectacular"
-featured_image: "/images/coffee-tour-region-private-transfer.jpg"
+featured_image: "images/coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
 title: "Coffee Touring Region Private Transfer"
 ---

@@ -1,6 +1,6 @@
 ---
 description: "Cali City Tour: San Antonio, Tertulia Museum & Downtown"
-featured_image: "/images/cali-city-tour.jpg"
+featured_image: "images/cali-city-tour.jpg"
 tags: ["tours"]
 title: "Cali City Tour"
 ---
@@ -9,7 +9,7 @@ title: "Cali City Tour"
 
 # Cali City Tour: San Antonio, Tertulia Museum & Downtown
 
-Welcome to the captivating Cali City Tour, where we invite you to embark on an extraordinary journey through the heart and soul of this vibrant Colombian city. At Cali VIP Tours, our passion for exploration and discovery knows no bounds. 
+Welcome to the captivating Cali City Tour, where we invite you to embark on an extraordinary journey through the heart and soul of this vibrant Colombian city. At Cali VIP Tours, our passion for exploration and discovery knows no bounds.
 
 **Discover San Antonio:** Our adventure begins in the enchanting neighborhood of San Antonio. Cobblestone streets lined with colorful houses, adorned with street art, create an atmosphere that's both charming and inspiring. As you wander through the alleys, you'll feel the pulse of Cali's artistic energy, a true reflection of its people.
 
