@@ -1,5 +1,5 @@
 ---
-title: "Tours ES"
+title: "Tours"
 ---
 
 Echale un vistazo a nuestros tours fenomenales...
