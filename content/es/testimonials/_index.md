@@ -1,7 +1,8 @@
 ---
 title: "Testimonios"
+image: /images/testimonials-main.jpg
 ---
 
-La gente que ha estado feliz en nuestro tour local en Cali y alrededores.
+{{< figure src="/images/testimonials-main.jpg" title="About Cali VIP Tours" >}}
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+La gente que ha estado feliz en nuestro tour local en Cali y alrededores.

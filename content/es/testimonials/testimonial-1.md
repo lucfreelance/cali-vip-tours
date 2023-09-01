@@ -1,6 +1,6 @@
 ---
 description: "Feliz y disfrutable"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/testimonial-1.jpg"
 tags: ["testimonios"]
 title: "Phil Specktor - Agosto 2023"
 ---

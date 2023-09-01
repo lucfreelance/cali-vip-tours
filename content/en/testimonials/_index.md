@@ -1,7 +1,8 @@
 ---
 title: "Testimonials"
+image: /images/testimonials-main.jpg
 ---
 
-Take a look over our brand new featured tours at Cali and near.
+{{< figure src="/images/testimonials-main.jpg" title="About Cali VIP Tours" >}}
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Take a look over our brand new featured tours at Cali and near.

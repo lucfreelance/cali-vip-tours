@@ -1,8 +1,8 @@
 ---
-description: "Feliz y disfrutable 3"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["testimonios"]
-title: "Antoiné Zudeikis - Agosto 2023"
+description: "Happy and joyful 3"
+featured_image: "/images/testimonial-3.jpg"
+tags: ["testimonials"]
+title: "Antoiné Zudeikis - August 2023"
 ---
 
-Feliz por estar ahí en la bella Cali.
+Es muy hermosa la ciudad de Cali.

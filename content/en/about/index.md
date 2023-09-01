@@ -1,16 +1,14 @@
 ---
 title: "About Us"
 description: "At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city. Our journey began years ago when, exploring every corner of Cali, we discovered the essence that makes it unique: its ANANKE, its unparalleled spirit."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+featured_image: '/images/about-main.jpg'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/about.jpg" title="About Cali VIP Tours" >}}
 
 At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city. Our journey began years ago when, exploring every corner of Cali, we discovered the essence that makes it unique: its ANANKE, its unparalleled spirit.
-
-{{< figure src="/images/Cali_VIP_Tours_Image.jpg" title="Explore Cali in Style" >}}
 
 Cali VIP Tours is a project dedicated to showcasing the essence of Cali in a unique way. Our approach takes inspiration from the romantic/gothic novel "The Hunchback of Notre-Dame" by Victor Hugo, but instead of an ancient cathedral, we focus on Cali's contemporary treasures. Established in 2023, our team is committed to providing experiences that capture the beauty and history of the city in which we flourish.
 

@@ -1,8 +1,8 @@
 ---
 description: "Feliz y disfrutable 2"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/testimonial-2.jpg"
 tags: ["testimonios"]
-title: "Anna Einstein - Agosto 2023"
+title: "Anna prado - August 2023"
 ---
 
 Feliz por estar ahí en la bella Cali.
