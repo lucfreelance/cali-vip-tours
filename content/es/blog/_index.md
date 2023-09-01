@@ -1,5 +1,5 @@
 ---
-title: "Blog ES"
+title: "Blog"
 ---
 
 Nuestro blog es una machera...
