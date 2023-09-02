@@ -1,8 +1,6 @@
 ---
 title: "Testimonials"
-image: /images/testimonials-main.jpg
+featured_image: /images/_testimonials-main.jpg
 ---
 
-{{< figure src="/images/testimonials-main.jpg" title="About Cali VIP Tours" >}}
-
-Take a look over our brand new featured tours at Cali and near.
+People happy to spent time at Cali and having a Cali VIP Tours Experience.

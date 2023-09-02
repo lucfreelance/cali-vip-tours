@@ -1,14 +1,21 @@
 ---
 title: Contact
-featured_image: ""
+featured_image: "/images/_contact-main.jpg"
 omit_header_text: true
-description: We'd love to hear from you
+description: We'd love to hear from you At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city. If you would to explore every corner of Cali, contact us for guide and plans.
 type: page
 menu: main
 ---
 
-This is the contact page for.
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) por un simple, servicio de libre forma.
+#### This is the contact page,
 
 {{< form-contact action="https://example.com"  >}}
+
+Check out [Formspree](https://formspree.io/) for a simple, online form.
+
+Cali VIP Tours is a project dedicated to showcasing the essence of Cali in a unique way.
+
+Contact us for further information for assistance and booking.
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

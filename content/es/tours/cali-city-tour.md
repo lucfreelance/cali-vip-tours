@@ -5,7 +5,8 @@ tags: ["tours"]
 title: "Tour por la Ciudad de Cali"
 ---
 
-![Tour por la Ciudad de Cali 1](/images/cali-city-tour.jpg)
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Bienvenido al cautivador Tour por la Ciudad de Cali, donde te invitamos a emprender un viaje extraordinario a través del corazón y el alma de esta vibrante ciudad colombiana. En Cali VIP Tours, nuestra pasión por la exploración y el descubrimiento no tiene límites.
 
@@ -20,3 +21,8 @@ Bienvenido al cautivador Tour por la Ciudad de Cali, donde te invitamos a empren
 **Únete a Nosotros Hoy:** Ya seas un entusiasta de la historia, un amante del arte o simplemente alguien ansioso por experimentar el auténtico latido de Cali, nuestro Tour por la Ciudad está diseñado para ti. Únete a Cali VIP Tours en esta expedición inolvidable y forma parte de la historia que está escrita en cada rincón de esta cautivadora ciudad.
 
 Reserva tu Tour por la Ciudad de Cali ahora y emprende una aventura que promete descubrimiento, inspiración y una conexión con el espíritu de Cali.
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+
+![Cali City Tour](/images/cali-city-tour.jpg)

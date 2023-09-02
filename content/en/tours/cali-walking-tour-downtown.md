@@ -1,11 +1,12 @@
 ---
 description: "Cali Walking Tour DownTown"
-featured_image: "images/cali-walking-tour-downtown.jpg"
+featured_image: "images/tour-cali-walking-tour-downtown.jpg"
 tags: ["tours"]
 title: "Cali Walking Tour DownTown"
 ---
 
-![Cali Downtown Walking Tour 1](/images/cali-downtown-walking-tour.jpg)
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Let the warm heart of this city conquer you as its music and dance envelop you on this walking tour through Cali's main sites.
 
@@ -22,3 +23,8 @@ Let the warm heart of this city conquer you as its music and dance envelop you o
 **Join the Experience:** If you're seeking an authentic way to experience Cali, our Cali Downtown Walking Tour is the answer. Whether you're passionate about music, dance, history, or simply immersing yourself in the city's everyday life, this tour has something for you.
 
 Book now and let Cali VIP Tours guide you through a journey where culture, music, and dance will steal your heart. Don't miss the opportunity to live an unforgettable experience in the heart of Cali!
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+
+![Cali Downtown Walking Tour 1](/images/cali-downtown-walking-tour.jpg)

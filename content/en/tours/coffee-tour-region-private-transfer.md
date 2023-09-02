@@ -1,10 +1,12 @@
 ---
 description: "Coffee Touring Region Private Transfer - Cozzye and Spectacular"
-featured_image: "images/coffee-tour-region-private-transfer.jpg"
+featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
 title: "Coffee Touring Region Private Transfer"
 ---
-![Coffee Touring Region Private Transfer 1](/images/coffee-region-private-transfer.jpg)
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Experience safe and comfortable travel as you prepare for an exciting new adventure. Let us be your companions on journeys to and from Cali, as well as to or from Pereira, Armenia, Salento, or Filandia, in the heart of the coffee region.
 
@@ -19,3 +21,8 @@ Experience safe and comfortable travel as you prepare for an exciting new advent
 **Seamless Connections:** Our transfers are more than just rides; they're connections between destinations and experiences. Let us be your bridge between the vibrant energy of Cali and the serene beauty of the coffee region's hidden gems.
 
 **Book Your Transfer:** If you're looking for a stress-free and enjoyable way to travel between Cali and the captivating coffee region, our Private Transfer service is the perfect solution. Reserve your transfer now and let Cali VIP Tours ensure that every leg of your journey is as memorable as the destination itself.
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+
+![Coffee Touring Region Private Transfer 1](/images/coffee-region-private-transfer.jpg)

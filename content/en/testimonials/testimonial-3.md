@@ -5,4 +5,4 @@ tags: ["testimonials"]
 title: "Antoiné Zudeikis - August 2023"
 ---
 
-Very happy went Cali Tour!
+Very happy happened Cali times!

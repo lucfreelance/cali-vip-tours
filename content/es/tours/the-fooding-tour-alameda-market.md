@@ -1,12 +1,13 @@
 ---
 description: "The Fooding Toor Alameda Market"
-featured_image: "/images/the-fooding-tour-alameda-market.jpg"
+featured_image: "/images/tour-the-fooding-tour-alameda-market.jpg"
 tags: ["tours"]
 title: "The Fooding Toor Alameda Market"
 disable_share: false
 ---
 
-![Tour Gastronómico en el Mercado Alameda 1](/images/the-fooding-tour-alameda-market.jpg)
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Sumérgete en la cultura colombiana y saborea los sabores de Cali a través de esta auténtica experiencia local de degustación de alimentos en el Mercado Alameda.
 
@@ -21,3 +22,6 @@ Sumérgete en la cultura colombiana y saborea los sabores de Cali a través de e
 **Exploración Culinaria:** Mientras pruebas una variedad de platillos, obtendrás una visión de la fusión de influencias indígenas, españolas y africanas que dan forma a la cocina colombiana. Cada sabor cuenta una historia, y cada sabor es un trazo en el vibrante cuadro del panorama culinario de Cali.
 
 **Reserva tu Aventura Gastronómica:** Si eres un entusiasta de la comida que busca descubrir el corazón y el alma de la cocina de Cali, nuestro Tour Gastronómico en el Mercado Alameda es la experiencia perfecta. Reserva tu lugar ahora y prepárate para un viaje de sabor, cultura y conexión que te dejará con un aprecio más profundo por las tradiciones culinarias colombianas.
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
