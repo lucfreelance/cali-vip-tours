@@ -1,8 +1,8 @@
 ---
 description: "San Cipriano Tour Adventure"
-featured_image: "/images/tour-san-cipriano-tour-adventure.jpg"
+featured_image: "/images/tour-san-cipriano-river-tour-adventure.jpg"
 tags: ["tours"]
-title: "San Cipriano Tour Adventure"
+title: "San Cipriano River Tour Adventure"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
@@ -10,7 +10,7 @@ title: "San Cipriano Tour Adventure"
 
 **San Cipriano River Adventure with Cali VIP Tours**
 
-Explore the enchanting San Cipriano with Cali VIP Tours. This tour takes you deep into the heart of the Colombian rainforest, where the San Cipriano River weaves its magic.
+Explore the enchanting San Cipriano with Cali VIP Tours, one of the most crystal clear water world wide. This tour takes you deep into the heart of the Valle rainforest, where the San Cipriano River weaves its magic.
 
 **A Natural Paradise**
 

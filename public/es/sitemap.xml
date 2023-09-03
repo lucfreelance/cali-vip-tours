@@ -193,16 +193,6 @@
     <loc>https://caliviptours.netlify.app/es/tours/san-cipriano-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.netlify.app/tours/san-cipriano-tour-adventure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.netlify.app/es/tours/san-cipriano-tour-adventure/"
-                />
   </url><url>
     <loc>https://caliviptours.netlify.app/es/tags/testimonials/</loc>
     <changefreq>monthly</changefreq>

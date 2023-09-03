@@ -7,15 +7,12 @@ type: page
 menu: main
 ---
 
-#### This is the contact page,
-
-{{< form-contact action="https://example.com"  >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< form-contact action="https://formspree.io/"  >}}
 
 Check out [Formspree](https://formspree.io/) for a simple, online form.
 
 Cali VIP Tours is a project dedicated to showcasing the essence of Cali in a unique way.
 
 Contact us for further information for assistance and booking.
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

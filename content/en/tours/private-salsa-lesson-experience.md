@@ -6,7 +6,6 @@ title: "Private Salsa Lesson Experience (With Locals)"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Challenge yourself and get to know Cali through its best cultural expression: Salsa! This way, you can dance and mingle with us.
 
@@ -61,6 +60,5 @@ Cali VIP Tours invites you to step into the world of Salsa, where every sway and
 Are you ready to dance to the heartbeat of Cali? Join us as we unveil the city's vibrant rhythms and embark on a Salsa journey that will leave you moving to the melodies long after the tour ends.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 ![Coffee Touring Region Private Transfer 1](/tour-private-salsa-lesson-experience.jpg)

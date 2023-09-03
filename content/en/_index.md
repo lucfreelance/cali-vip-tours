@@ -5,28 +5,34 @@ featured_image: "/images/__cali-vip-tours-main.jpg"
 theme_version: "2.8.2"
 ---
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
-
 # Welcome to Cali VIP Tours:
 
 ## It's all about the experience!
 
-🌆 **Discover the Heartbeat of Cali**
+### Discover the Heartbeat of Cali
 
-Welcome to Cali, the city of salsa, culture, and adventure! Nestled in the vibrant heart of Colombia, Cali is a place where rhythm fills the streets, and every corner tells a story. From its rich history to its mouthwatering cuisine, Cali is a destination like no other.
+{{< figure src="/images/tour_cali-vip-tours-1.jpg" title="Cali VIP Tours" >}}
 
-🌟 **Why Choose Cali VIP Tours**
+Welcome to Cali VIP Tours website, where you can find key information about a vibrant city where culture and the heartbeat of Salsa fill the air: Santiago de Cali.
 
-At Cali VIP Tours, we're more than just tour guides; we're storytellers, culture enthusiasts, and your gateway to the soul of this incredible city. Our tours are designed to immerse you in the beauty, the flavors, and the rhythms of Cali. Whether you're a salsa aficionado, a foodie, or an explorer, we have an experience that's perfect for you.
+Explore Cali's lively streets with us. Feel the passion of dancing, savor the flavors of colombian cuisine, and uncover the hidden gems of this captivating city. Your adventure begins with Cali VIP Tours.
 
-🌍 **Your Journey Begins Here**
+At Cali VIP Tours, we are your guides to the soul of this incredible place.
 
-Explore the lively streets of Cali with us. Feel the passion of salsa dancing, savor the flavors of Colombian cuisine, and uncover the hidden gems of this captivating city. Your adventure awaits, and it starts with Cali VIP Tours.
+**Book Your Experience**
 
-✈️ **Book Your Experience**
+{{< figure src="/images/tour_cali-vip-tours-3.jpg" title="Cali VIP Tours" >}}
 
-Ready to create memories that will last a lifetime? Browse our tours and join us in discovering the magic of Cali. Let's make your visit to Cali an unforgettable experience!
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+
+Ready to create memories that will last a lifetime? Browse our tours and join us in discovering the magic of Cali. Make your visit to Cali unforgettable with Cali VIP Tours.
+
+**Why Us?**
+
+{{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Cali VIP Tours" >}}
+
+We're not just tour guides; we're storytellers and culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a salsa aficionado, a foodie, or an explorer, we have the perfect experience for you.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
