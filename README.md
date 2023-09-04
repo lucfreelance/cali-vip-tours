@@ -1,12 +1,10 @@
-# Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites.
+# Cali VIP Tours _made with [Hugo](https://gohugo.io/), a framework for building websites._
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
 
-![screenshot](https://raw.githubusercontent.com/budparr/gohugo-theme-ananke/master/images/screenshot.png)
+[ADDRESS](https://caliviptours.com/)
 
-[DEMO](https://gohugo-ananke-theme-demo.netlify.com/)
-
-Features
+## Features
 
 - Responsive
 - Accessible

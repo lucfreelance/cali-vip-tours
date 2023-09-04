@@ -1,7 +1,7 @@
 {
     "author": "budparr",
     "bugs": {
-        "url": "https://github.com/theNewDynamic/gohugo-theme-ananke/issues"
+        "url": "https://github.com/lucfreelance/cali-vip-tours/issues"
     },
     "comments": {
         "dependencies": {},
@@ -22,7 +22,7 @@
         "postcss-cssnext": "^2.10.0",
         "tachyons": "^4.9.1"
     },
-    "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
+    "homepage": "https://github.com/lucfreelance/cali-vip-tours#readme",
     "keywords": [
         "go",
         "hugo",
@@ -33,7 +33,7 @@
     "name": "gohugo-theme-ananke",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/theNewDynamic/gohugo-theme-ananke.git"
+        "url": "git+https://github.com/lucfreelance/cali-vip-tours.git"
     },
     "scripts": {
         "version": "auto-changelog -p --template keepachangelog --commit-limit 0 \u0026\u0026 git add CHANGELOG.md"

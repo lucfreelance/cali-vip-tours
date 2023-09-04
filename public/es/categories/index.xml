@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cali VIP Tours en Español</title>
-    <link>https://caliviptours.netlify.app/es/categories/</link>
+    <link>https://caliviptours.com/es/categories/</link>
     <description>Recent content in Categories on Cali VIP Tours en Español</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caliviptours.netlify.app/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://caliviptours.com/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
