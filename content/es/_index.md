@@ -1,7 +1,6 @@
 ---
 title: "Cali VIP Tours - ES"
 description: "Es todo sobre la experiencia"
-cascade:
 featured_image: "/images/__cali-vip-tours-main.jpg"
 ---
 

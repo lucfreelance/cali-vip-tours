@@ -4,7 +4,7 @@ description: "Descubre la verdadera ciudad corazón de Colombia, la 'Sultana del
 featured_image: "/images/_about-cali_main.jpg"
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contáctanos{{< /whatsapp >}}

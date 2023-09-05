@@ -3,4 +3,4 @@ title: "Testimonials"
 featured_image: /images/_testimonials-main.jpg
 ---
 
-People happy to spent time at Cali and having a Cali VIP Tours Experience.
+People which have spent time at Cali for weekend or even seasons, qualifying their tours experiences and Cali lifestyle...

@@ -4,7 +4,9 @@ featured_image: "/images/_contact-main.jpg"
 omit_header_text: true
 description: We'd love to hear from you At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city. If you would to explore every corner of Cali, contact us for guide and plans.
 type: page
-menu: main
+menu:
+  main:
+    weight: 4
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}

@@ -120,20 +120,6 @@
                 href="https://caliviptours.com/testimonials/testimonial-2/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/testimonials/testimonial-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/testimonials/testimonial-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/testimonials/testimonial-3/"
-                />
-  </url><url>
     <loc>https://caliviptours.com/tours/cali-city-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

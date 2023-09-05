@@ -1,6 +1,9 @@
 ---
 title: "Tours"
 featured_image: /images/_tours-main.jpg
+menu:
+  main:
+    weight: 1
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}

@@ -4,7 +4,7 @@ description: "Discover the real city heart of Colombia: Cali, Valle del Cauca"
 featured_image: "/images/_about-cali-main.jpg"
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 {{< googlemap url="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3950644,-76.525664,12z/data=!3m1!4b1!4m6!3m5!1s0x8e30a6f0cc4bb3f1:0x1f0fb5e952ae6168!8m2!3d3.4516467!4d-76.5319854!16zL20vMDFwc3Nm?entry=ttu" >}}Cali Map{{< /googlemap >}}
@@ -28,17 +28,6 @@ Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia
 | **Weather** | Cali enjoys a warm tropical climate throughout the year, with an average temperature of 25°C (77°F). |
 | **Elevation** | 1,000 meters (3,281 feet) above sea level |
 | **Distance to coast** | 150 kms / Up to 4 hours trip to Buenaventura, Valle|
-
-## Main Phone Numbers
-
-Important lines to have close just in case:
-| Entity | Phone number |
-| ------------------ | ------------ |
-| _Policía Nacional_ | 123 |
-| Emergencies | 123 |
-| Red Cross | 132 |
-| _Bomberos_ | 119 |
-| _Gaula_ | 165 |
 
 ## Getting Around Cali
 
