@@ -1,10 +1,10 @@
 ---
-description: "Happy and joyful"
+description: "Unforgettable!"
 featured_image: "/images/testimonial-1.jpg"
 tags: ["testimonials"]
-title: "Phil - June 2023"
+title: "Dave from England - September 2023"
 ---
 
-![Phil ](/images/testimonial_1.jpg)
+[![Watch the video](https://i.imgur.com/AdSRuKH.jpg)](../testimonial-1/testimonial-1.html)
 
-> Unforgettable! Cali VIP Tours provided me with an experience like no other. From the moment I joined their tour, I felt like I was exploring Cali with a close friend. Their attention to detail and deep knowledge of the region made the trip truly exceptional. I highly recommend Cali VIP Tours to anyone looking to explore Cali in an authentic and memorable way.
+> "Unforgettable! Cali VIP Tours provided me with an experience like no other. From the moment I'd joined their guide, I felt like I was exploring Cali with a close friend like no other". I recommend their good service to anyone looking to explore this city in an authentic and memorable way.
