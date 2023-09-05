@@ -8,9 +8,9 @@ featured_image: "/images/__cali-vip-tours-main.jpg"
 
 ## It's all about the experience!
 
-### Discover the Heartbeat of Cali
-
 {{< figure src="/images/tour_cali-vip-tours-1.jpg" title="Cali VIP Tours" >}}
+
+## Discover the Heartbeat of Cali
 
 Welcome to Cali VIP Tours website, where you can find key information about a vibrant city where culture and the heartbeat of Salsa fill the air: Santiago de Cali.
 
