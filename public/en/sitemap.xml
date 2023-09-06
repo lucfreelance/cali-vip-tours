@@ -106,32 +106,18 @@
                 href="https://caliviptours.com/about/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/tours/cali-city-tour/</loc>
+    <loc>https://caliviptours.com/tours/cali-city-the-original-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-city-tour/"
+                href="https://caliviptours.com/es/tours/cali-city-the-original-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/cali-city-tour/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/tours/cali-walking-tour-downtown/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-walking-tour-downtown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/cali-walking-tour-downtown/"
+                href="https://caliviptours.com/tours/cali-city-the-original-tour/"
                 />
   </url><url>
     <loc>https://caliviptours.com/categories/</loc>
@@ -146,20 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caliviptours.com/categories/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/tours/coffee-tour-region-private-transfer/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/coffee-tour-region-private-transfer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/coffee-tour-region-private-transfer/"
                 />
   </url><url>
     <loc>https://caliviptours.com/contact/</loc>
@@ -276,6 +248,34 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caliviptours.com/tags/tours/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/tours/vip-coffee-axis-exploration/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/vip-coffee-axis-exploration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/vip-coffee-axis-exploration/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/tours/walking-through-downtown-tour/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/walking-through-downtown-tour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/walking-through-downtown-tour/"
                 />
   </url>
 </urlset>

@@ -31,7 +31,7 @@ Ready to create memories that will last a lifetime? Browse our tours and join us
 
 {{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Cali VIP Tours" >}}
 
-We're not just tour guides; we're storytellers and culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a salsa aficionado, a foodie, or an explorer, we have the perfect experience for you.
+We're not just tour guides; we're storytellers and culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, we have the perfect experience for you.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

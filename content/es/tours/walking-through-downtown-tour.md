@@ -1,8 +1,8 @@
 ---
-description: "Tour Caminantes Cali por el Centro"
+description: "Walking Through Downtown Tour"
 featured_image: "/images/cali-walking-tour-downtown.jpg"
 tags: ["tours"]
-title: "Tour Caminantes Cali por el Centro"
+title: "Walking Through Downtown Tour"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}

@@ -1,8 +1,8 @@
 ---
-description: "Coffee Touring Region Private Transfer - Cozzye and Spectacular"
+description: "VIP Coffee Azis Exploration to _Eje Cafetero_ - Cozzye and Spectacular"
 featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
-title: "Coffee Touring Region Private Transfer"
+title: "VIP Coffee Azis Exploration to _Eje Cafetero_"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}

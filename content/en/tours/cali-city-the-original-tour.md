@@ -1,9 +1,9 @@
 ---
-description: "Cali City Tour: San Antonio, Tertulia Museum & Downtown"
+description: "Cali City the ORIGINAL Tour: San Antonio, Tertulia Museum & Downtown"
 featured_image: "images/tour-cali-city-tour.jpg"
 image: "images/cali-city-tour.jpg"
 tags: ["tours"]
-title: "Cali City Tour"
+title: "Cali City the ORIGINAL Tour"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
@@ -26,4 +26,4 @@ Book your Cali City Tour now and embark on an adventure that promises discovery,
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
-![Cali City Tour](/images/cali-city-tour.jpg)
+![Cali City the Original Tour](/images/cali-city-tour.jpg)
