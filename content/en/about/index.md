@@ -43,16 +43,10 @@ Cali offers modern services in transportation and communications options for get
 
 ### Free Wi-Fi
 
+{{< figure src="/images/about_11.jpg" title="Free WIFI" >}}
 {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}WiFi hotspots{{< /freewifi >}}
 
 Cali offers free Wi-Fi in many public places, including parks, shopping centers, and some restaurants. Look for networks labeled "wifi Gratis / free wifi"
-
-### Safety Tips for Tourists
-
-- [ ] Stay alert and keep an eye on your belongings.
-- [ ] Avoid lonely lit areas at night.
-- [ ] Follow local advice for a safe and enjoyable visit.
-- [ ] Try avoid to wear prominent jewelry and expensiv electronics on streets.
 
 ## Places of Interest
 
@@ -105,6 +99,38 @@ Cali is unique for its seven rivers, which weave through the city, adding natura
 - [ ] **Cauca River**
 - [ ] **Aguacatal River**
 - [ ] **Lili River**
+
+## Your Destination for Love and Romance
+
+{{< figure src="/images/about_10.jpg" title="Cali VIP Tours" >}}
+
+"Cali, nestled in the enchanting Valle del Cauca of Colombia, is celebrated as an idyllic destination for lovers and those on a quest for romance. If you're in search of love and enchantment, this vibrant city awaits your love discovery."
+
+## Cali Unleashed: The Pet-Friendly Paradise
+
+{{< figure src="/images/about_13.jpg" title="Cali VIP Tours" >}}
+Cali boasts a plethora of pet-friendly parks where your furry pals can stretch their legs and make new friends. _Parque del Perro_s_, by example and as the name suggests, is a favorite among dog owners. Here, you'll find dogs of all shapes and sizes running, playing, and enjoying the outdoors of this captivating urban spot.
+
+## Cali's Bird-Watcher's Delight: Where Feathered Friends Soar
+
+{{< figure src="/images/about_14.jpg" title="Cali VIP Tours" >}}
+Cali and the Valle region are a haven for bird enthusiasts. Explore lush parks and pristine reserves where vibrant avian residents take flight, creating an unforgettable experience for avid bird watchers.
+
+## Cali's Bird-Watcher's Delight: Where Feathered Friends Soar
+
+{{< figure src="/images/about_16.jpg" title="Cali VIP Tours" >}}
+Cali and the Valle region are a haven for bird enthusiasts. Explore lush parks and pristine reserves where vibrant avian residents take flight, creating an unforgettable experience for avid bird watchers.
+
+## Extreme Sports Are Also Welcome
+
+{{< figure src="/images/about_15.jpg" title="Cali VIP Tours" >}}
+Cali and the Valle region are a haven for bird enthusiasts. Explore lush parks and pristine reserves where vibrant avian residents take flight, creating an unforgettable experience for avid bird watchers.
+
+## Cali: Where Friends Always Return
+
+{{< figure src="/images/about_16.jpg" title="Cali VIP Tours" >}}
+
+In the heart of Colombia's Valle del Cauca, Cali beckons with open arms. This vibrant city is not just a destination; it's a place where friendships are forged and forever cherished. Come experience Cali's warm embrace, where the bonds of friendship keep calling you back.  
 
 ## Medical Tourism and Aesthetic Medicine in Cali
 
@@ -199,9 +225,18 @@ Should you require consular assistance, here are the consulates in Cali:
 | 🇨🇭 Switzerland | 602 332 04 91 | Cr. 100 No. 1-90 316 |
 | 🇬🇧 United Kingdom | 602 880 98 12 | Cr. 6 No. 21-44 |
 
+### Safety Tips for Tourists
+
+{{< figure src="/images/about_12.jpg" title="Cali VIP Tours" >}}
+
+- [ ] Stay alert and keep an eye on your belongings.
+- [ ] Avoid lonely lit areas at night.
+- [ ] Follow local advice for a safe and enjoyable visit.
+- [ ] Try avoid to wear prominent jewelry and expensive electronics on streets.
+
 ## Explore with Cali VIP Tours
 
-![About Cali VIP Tours](/images/about-cali-9.jpg)
+{{< figure src="/images/about_9.jpg" title="Cali VIP Tours" >}}
 We'll be the gate between your Cali desire and the way to experience the best of Cali and its surroundings. At Cali VIP Tours, we're passionate about introducing you to the heart and soul of Cali. Our tours are crafted to provide an immersive experience that goes beyond the tourist attractions. Whether you're seeking adventure, culture, or simply a taste of Cali's unique charm, we have the perfect tour for you.
 
 {{< googlemap url="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3950644,-76.525664,12z/data=!3m1!4b1!4m6!3m5!1s0x8e30a6f0cc4bb3f1:0x1f0fb5e952ae6168!8m2!3d3.4516467!4d-76.5319854!16zL20vMDFwc3Nm?entry=ttu" >}}Cali Map{{< /googlemap >}}
