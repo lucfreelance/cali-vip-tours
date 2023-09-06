@@ -1,5 +1,5 @@
 ---
-description: "Walking Through Downtown Tour"
+description: "Through Downtown Walking Tour"
 featured_image: "images/tour-cali-walking-tour-downtown.jpg"
 tags: ["tours"]
 title: "Walking Through Downtown Tour"

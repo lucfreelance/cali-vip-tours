@@ -170,9 +170,19 @@
                 href="https://caliviptours.com/es/testimonials/testimonial-1/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/san-cipriano-tour-adventure/</loc>
+    <loc>https://caliviptours.com/es/tours/san-cipriano-river-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/san-cipriano-river-tour-adventure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/san-cipriano-river-tour-adventure/"
+                />
   </url><url>
     <loc>https://caliviptours.com/es/tags/testimonials/</loc>
     <changefreq>monthly</changefreq>
@@ -220,18 +230,18 @@
                 href="https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/cali-city-the-original-tour/</loc>
+    <loc>https://caliviptours.com/es/tours/cali-city-the-outstanding-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/cali-city-the-original-tour/"
+                href="https://caliviptours.com/tours/cali-city-the-outstanding-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-city-the-original-tour/"
+                href="https://caliviptours.com/es/tours/cali-city-the-outstanding-tour/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tours/</loc>
@@ -262,32 +272,32 @@
                 href="https://caliviptours.com/es/tags/tours/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/vip-coffee-axis-exploration/</loc>
+    <loc>https://caliviptours.com/es/tours/vip-coffee-axis-exploration-trip/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/vip-coffee-axis-exploration/"
+                href="https://caliviptours.com/tours/vip-coffee-axis-exploration-trip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/vip-coffee-axis-exploration/"
+                href="https://caliviptours.com/es/tours/vip-coffee-axis-exploration-trip/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/walking-through-downtown-tour/</loc>
+    <loc>https://caliviptours.com/es/tours/through-downtown-walking-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/walking-through-downtown-tour/"
+                href="https://caliviptours.com/tours/through-downtown-walking-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/walking-through-downtown-tour/"
+                href="https://caliviptours.com/es/tours/through-downtown-walking-tour/"
                 />
   </url>
 </urlset>

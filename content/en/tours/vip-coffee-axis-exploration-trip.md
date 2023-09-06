@@ -1,8 +1,8 @@
 ---
-description: "VIP Coffee Azis Exploration to _Eje Cafetero_ - Cozzye and Spectacular"
+description: "VIP Coffee Axis Exploration Trip to Eje Cafetero - Cozzye and Spectacular"
 featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
-title: "VIP Coffee Azis Exploration to _Eje Cafetero_"
+title: "VIP Coffee Axis Exploration Trip"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
