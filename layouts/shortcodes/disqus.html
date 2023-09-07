@@ -1,0 +1,26 @@
+{# {{ template "_internal/disqus.html" . }} #}
+
+
+<script>
+  // Función para cargar la casilla de comentarios de Disqus
+  function loadDisqusComments() {
+    var disqusContainer = document.getElementById('disqus-comments');
+
+    // Verifica si el elemento existe antes de cargar Disqus
+    if (disqusContainer) {
+      // Reemplaza 'TU_SHORTNAME_DE_DISQUS' con tu nombre de usuario de Disqus
+      var disqusShortname = 'TU_SHORTNAME_DE_DISQUS';
+
+      // Crea un elemento de script para cargar Disqus
+      var disqusScript = document.createElement('script');
+      disqusScript.src = 'https://' + disqusShortname + '.disqus.com/embed.js';
+      disqusScript.setAttribute('data-timestamp', +new Date());
+
+      // Agrega el script a tu página
+      disqusContainer.appendChild(disqusScript);
+    }
+  }
+
+  // Llama a la función para cargar Disqus cuando la página esté lista
+  document.addEventListener('DOMContentLoaded', loadDisqusComments);
+</script>

@@ -2,7 +2,7 @@
 description: "Through Downtown Walking Tour"
 featured_image: "images/tour-cali-walking-tour-downtown.jpg"
 tags: ["tours"]
-title: "Walking Through Downtown Tour"
+title: "Through Downtown Walking Tour"
 ---
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
