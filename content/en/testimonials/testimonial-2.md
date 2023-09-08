@@ -5,10 +5,10 @@ tags: ["testimonials"]
 title: "Paul"
 ---
 
-[![Watch on YouTube](https://i.imgur.com/eTXIaY9.png)](../testimonial-2/testimonial-2.html)
+[![Watch on YouTube](https://i.imgur.com/q9mzq2L.jpg)](../testimonial-2/testimonial-2.html)
 
 <small>
-> "I'm not only recommend, I probably went going here two or three times with this good same company; There are something special happening with Cali VIP Tours"
+> "I would definitely go back to Cali again I had an amazing experience, the unique thing about this tour concept is that you don't have a guide, you have a friend that takes you through the real Cali culture  . Something that I really like is that depending on your need they will schedule a tour that fits you the best!"
 </small>
 
 [Go Back](<javascript:history.go(-1)>)
