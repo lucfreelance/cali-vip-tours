@@ -207,16 +207,6 @@
     <loc>https://caliviptours.com/tags/testimonials/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tags/testimonials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tags/testimonials/"
-                />
   </url><url>
     <loc>https://caliviptours.com/tours/the-fooding-tour-alameda-market/</loc>
     <changefreq>monthly</changefreq>
