@@ -1,31 +1,34 @@
 ---
-title: "Cali VIP Tours - ES"
+title: "Cali VIP Tours"
 description: "Es todo sobre la experiencia"
 featured_image: "/images/__cali-vip-tours-main.jpg"
+image: "/images/__cali-vip-tours-main.jpg"
 ---
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+# Welcome to Cali VIP Tours:
 
-# ¡Bienvenido a Cali VIP Tours!
+## It's all about the experience!
 
-## ¡Todo se trata de la experiencia!
+{{< figure src="/images/tour_cali-vip-tours-1.jpg" title="Cali VIP Tours" >}}
 
-🌆 **Descubre el Latido de Cali**
+## Descubre el Latido de Cali
 
-¡Bienvenido a Cali, la ciudad de la salsa, la cultura y la aventura! Ubicada en el vibrante corazón de Colombia, Cali es un lugar donde el ritmo llena las calles y cada esquina cuenta una historia. Desde su rica historia hasta su deliciosa gastronomía, Cali es un destino como ningún otro.
+Bienvenido al sitio web de Cali VIP Tours, donde puedes encontrar información clave sobre una ciudad vibrante donde la cultura y el latido de la Salsa llenan el aire: Santiago de Cali.
 
-🌟 **Por qué Elegir Cali VIP Tours**
+Explora las animadas calles de Cali con nosotros. Siente la pasión por el baile, disfruta de los sabores de la cocina colombiana y descubre las joyas ocultas de esta cautivadora ciudad. Tu aventura comienza con Cali VIP Tours.
 
-En Cali VIP Tours, somos más que guías turísticos; somos narradores, entusiastas de la cultura y tu puerta de entrada al alma de esta increíble ciudad. Nuestros tours están diseñados para sumergirte en la belleza, los sabores y los ritmos de Cali. Ya seas un aficionado a la salsa, un amante de la comida o un explorador, tenemos una experiencia perfecta para ti.
+En Cali VIP Tours, somos tus guías hacia el alma de este lugar increíble.
 
-🌍 **Tu Viaje Comienza Aquí**
+**Reserva tu Experiencia**
 
-Explora las animadas calles de Cali con nosotros. Siente la pasión de bailar salsa, saborea los sabores de la cocina colombiana y descubre las joyas ocultas de esta cautivadora ciudad. Tu aventura te espera, y comienza con Cali VIP Tours.
+{{< figure src="/images/tour_cali-vip-tours-3.jpg" title="Cali VIP Tours" >}}
 
-✈️ **Reserva tu Experiencia**
+¿Listo para crear recuerdos que durarán toda la vida? Explora nuestros tours y únete a nosotros para descubrir la magia de Cali. Haz que tu visita a Cali sea inolvidable con Cali VIP Tours.
 
-¿Listo para crear recuerdos que durarán toda la vida? Explora nuestros tours y únete a nosotros para descubrir la magia de Cali. ¡Hagamos que tu visita a Cali sea una experiencia inolvidable!
+**Why Us?**
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Cali VIP Tours" >}}
+
+No somos solo "chicos guía de turismo"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta para ti.
+
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

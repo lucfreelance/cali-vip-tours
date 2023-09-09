@@ -1,12 +1,11 @@
 ---
-description: "VIP Coffee Azis Exploration to _Eje Cafetero_ - Cozzye and Spectacular"
-featured_image: "/images/coffee-tour-region-private-transfer.jpg"
+description: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
+featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
-title: "VIP Coffee Azis Exploration to _Eje Cafetero_"
+title: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
+image: "images/tour-coffee-tour-region-private-transfer.jpg"
 ---
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 ![Transfer Privado para la Región Cafetera](/images/coffee-region-private-transfer.jpg)
 
 Experimenta un viaje seguro y cómodo mientras te preparas para una emocionante nueva aventura. Permítenos ser tus compañeros en los trayectos desde y hacia Cali, así como desde y hacia Pereira, Armenia, Salento o Filandia, en el corazón de la región cafetera.
@@ -23,7 +22,6 @@ Experimenta un viaje seguro y cómodo mientras te preparas para una emocionante 
 
 **Reserva tu Transfer:** Si buscas una forma libre de estrés y placentera de viajar entre Cali y la cautivadora región cafetera, nuestro servicio de Transfer Privado es la solución perfecta. Reserva tu transferencia ahora y permite que Cali VIP Tours se asegure de que cada tramo de tu viaje sea tan memorable como el destino mismo.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 ![Coffee Touring Region Private Transfer 1](/images/coffee-region-private-transfer.jpg)

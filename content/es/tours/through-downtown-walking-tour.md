@@ -1,13 +1,10 @@
 ---
-description: "Walking Through Downtown Tour"
-featured_image: "/images/cali-walking-tour-downtown.jpg"
+description: "Through Downtown Walking Tour"
+featured_image: "images/tour-cali-walking-tour-downtown.jpg"
 tags: ["tours"]
-title: "Walking Through Downtown Tour"
+title: "Through Downtown Walking Tour"
+image: "images/tour-cali-walking-tour-downtown.jpg"
 ---
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
-![Tour Caminantes Cali por el Centro 1](/images/cali-downtown-walking-tour.jpg)
 
 Déjate conquistar por el corazón cálido de esta ciudad mientras su música y baile te envuelven en este recorrido a pie por los lugares principales de Cali.
 

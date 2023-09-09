@@ -16,5 +16,6 @@ Cali VIP Tours is a project dedicated to showcasing the essence of Cali in a uni
 Contact us for further information for assistance and booking:
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+
 [Go Back](javascript:history.go(-1))
 

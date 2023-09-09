@@ -106,20 +106,6 @@
                 href="https://caliviptours.com/about/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/tours/cali-city-the-outstanding-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-city-the-outstanding-tour/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/cali-city-the-outstanding-tour/"
-                />
-  </url><url>
     <loc>https://caliviptours.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -176,32 +162,18 @@
                 href="https://caliviptours.com/testimonials/testimonial-2/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/tours/private-salsa-lesson-experience/</loc>
+    <loc>https://caliviptours.com/tours/private-salsa-lesson-experience-with-locals/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/private-salsa-lesson-experience/"
+                href="https://caliviptours.com/es/tours/private-salsa-lesson-experience-with-locals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/private-salsa-lesson-experience/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/tours/san-cipriano-river-tour-adventure/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/san-cipriano-river-tour-adventure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/san-cipriano-river-tour-adventure/"
+                href="https://caliviptours.com/tours/private-salsa-lesson-experience-with-locals/"
                 />
   </url><url>
     <loc>https://caliviptours.com/testimonials/</loc>
@@ -260,6 +232,20 @@
                 href="https://caliviptours.com/tours/through-downtown-walking-tour/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/tours/cali-city-the-captivating-tour/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/cali-city-the-captivating-tour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/cali-city-the-captivating-tour/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/tours/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -288,18 +274,32 @@
                 href="https://caliviptours.com/tags/tours/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/tours/vip-coffee-axis-exploration-trip/</loc>
+    <loc>https://caliviptours.com/tours/trip-to-san-cipriano-river-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/vip-coffee-axis-exploration-trip/"
+                href="https://caliviptours.com/es/tours/trip-to-san-cipriano-river-tour-adventure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/vip-coffee-axis-exploration-trip/"
+                href="https://caliviptours.com/tours/trip-to-san-cipriano-river-tour-adventure/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/tours/trip-to-valle-and-eje-through-coffee-region-panorama/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/trip-to-valle-and-eje-through-coffee-region-panorama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/trip-to-valle-and-eje-through-coffee-region-panorama/"
                 />
   </url>
 </urlset>

@@ -1,14 +1,12 @@
 ---
-description: "VIP Coffee Axis Exploration Trip to Eje Cafetero - Cozzye and Spectacular"
+description: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama - Cozzye and Spectacular"
 featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
 tags: ["tours"]
-title: "VIP Coffee Axis Exploration Trip"
+title: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama"
+image: "images/tour-coffee-tour-region-private-transfer.jpg"
 ---
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
-
-Experience safe and comfortable travel as you prepare for an exciting new adventure. Let us be your companions on journeys to and from Cali, as well as to or from Pereira, Armenia, Salento, or Filandia, in the heart of the coffee region.
+Experience safe and comfortable travel as you prepare for an exciting journey through the picturesque coffee region of Colombia. Let us be your companions on journey from and to Cali. Enjoy a private transfer to lush coffee farms, where you'll learn the art of coffee production and savor freshly brewed colombian coffee.
 
 **Discover the Coffee Paradise:** Welcome to the Private Transfer for Coffee Touring Region, where convenience meets exploration. At Cali VIP Tours, we prioritize your journey's comfort and enjoyment, making every transfer an integral part of your overall experience.
 
@@ -22,7 +20,6 @@ Experience safe and comfortable travel as you prepare for an exciting new advent
 
 **Book Your Transfer:** If you're looking for a stress-free and enjoyable way to travel between Cali and the captivating coffee region, our Private Transfer service is the perfect solution. Reserve your transfer now and let Cali VIP Tours ensure that every leg of your journey is as memorable as the destination itself.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 ![Coffee Touring Region Private Transfer 1](/images/coffee-region-private-transfer.jpg)

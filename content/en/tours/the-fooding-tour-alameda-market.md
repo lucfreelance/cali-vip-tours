@@ -4,15 +4,14 @@ featured_image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 tags: ["tours"]
 title: "The Fooding Tour Alameda Market"
 disable_share: false
+image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 ---
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
 
 # Welcome to Cali VIP Tours
 
 ![Cali VIP Tours](/images/tour-the-fooding-tour-alameda-market-1.jpg)
 
-Experience Colombian Culture and Savor the Flavors of Cali Through this Authentic Local Food Tasting Experience at Alameda Market.
+Experience Colombian Culture and Savor the Flavors of Cali Through this Authentic Local Food Tasting Experience at Alameda Market. Indulge your taste buds on a culinary adventure at the Alameda Market. Sample delicious Colombian dishes, street food, and exotic fruits while exploring this vibrant market.
 
 **Taste Culinary Delights:** Welcome to the enticing Fooding Tour at Alameda Market, where your taste buds embark on a delicious journey. At Cali VIP Tours, we invite you to explore the rich tapestry of Colombian cuisine, guided by locals who know the market inside out.
 
@@ -54,4 +53,4 @@ Come hungry for adventure and leave with your heart filled with the flavors of C
 
 [Contact us via WhatsApp](https://wa.me/573175006706?text=Hello%20/%20Hola%20)
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

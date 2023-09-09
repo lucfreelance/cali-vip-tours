@@ -152,18 +152,32 @@
                 href="https://caliviptours.com/es/contact/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/private-salsa-lesson-experience/</loc>
+    <loc>https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/private-salsa-lesson-experience/"
+                href="https://caliviptours.com/tours/the-fooding-tour-alameda-market/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/private-salsa-lesson-experience/"
+                href="https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/es/tours/private-salsa-lesson-experience-with-locals/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/private-salsa-lesson-experience-with-locals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/private-salsa-lesson-experience-with-locals/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/testimonials/testimonial-1/</loc>
@@ -178,20 +192,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://caliviptours.com/es/testimonials/testimonial-1/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/es/tours/san-cipriano-river-tour-adventure/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/san-cipriano-river-tour-adventure/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/san-cipriano-river-tour-adventure/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tags/testimonials/</loc>
@@ -226,32 +226,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/</loc>
+    <loc>https://caliviptours.com/es/tours/through-downtown-walking-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/the-fooding-tour-alameda-market/"
+                href="https://caliviptours.com/tours/through-downtown-walking-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/"
+                href="https://caliviptours.com/es/tours/through-downtown-walking-tour/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/cali-city-the-outstanding-tour/</loc>
+    <loc>https://caliviptours.com/es/tours/cali-city-the-captivating-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/cali-city-the-outstanding-tour/"
+                href="https://caliviptours.com/tours/cali-city-the-captivating-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-city-the-outstanding-tour/"
+                href="https://caliviptours.com/es/tours/cali-city-the-captivating-tour/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tours/</loc>
@@ -282,32 +282,32 @@
                 href="https://caliviptours.com/es/tags/tours/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/vip-coffee-axis-exploration-trip/</loc>
+    <loc>https://caliviptours.com/es/tours/trip-to-san-cipriano-river-tour-adventure/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/vip-coffee-axis-exploration-trip/"
+                href="https://caliviptours.com/tours/trip-to-san-cipriano-river-tour-adventure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/vip-coffee-axis-exploration-trip/"
+                href="https://caliviptours.com/es/tours/trip-to-san-cipriano-river-tour-adventure/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/tours/through-downtown-walking-tour/</loc>
+    <loc>https://caliviptours.com/es/tours/trip-to-valle-and-eje-through-coffee-region-panorama/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/tours/through-downtown-walking-tour/"
+                href="https://caliviptours.com/tours/trip-to-valle-and-eje-through-coffee-region-panorama/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/tours/through-downtown-walking-tour/"
+                href="https://caliviptours.com/es/tours/trip-to-valle-and-eje-through-coffee-region-panorama/"
                 />
   </url>
 </urlset>
