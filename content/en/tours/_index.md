@@ -34,5 +34,3 @@ Discover the hidden gems of Cali and create lasting memories with our expert gui
 Arriving in Cali? Let us make your journey stress-free with our airport pick-up service. Our friendly team will meet you at Alfonso Bonilla Aragón International Airport (CLO) and ensure a comfortable and safe transfer to your accommodations. Start your Cali adventure with ease!
 
 Join us on one of these unforgettable tours, and don't forget to take advantage of our airport pick-up service. Cali VIP Tours is here to make your visit to Cali and su rroundings truly exceptional.
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}

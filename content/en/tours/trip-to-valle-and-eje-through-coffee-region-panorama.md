@@ -21,5 +21,3 @@ Experience safe and comfortable travel as you prepare for an exciting journey th
 **Book Your Transfer:** If you're looking for a stress-free and enjoyable way to travel between Cali and the captivating coffee region, our Private Transfer service is the perfect solution. Reserve your transfer now and let Cali VIP Tours ensure that every leg of your journey is as memorable as the destination itself.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
-
-![Coffee Touring Region Private Transfer 1](/images/coffee-region-private-transfer.jpg)

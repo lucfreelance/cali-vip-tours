@@ -23,5 +23,3 @@ Take a leisurely stroll through the heart of Cali, where history and modernity c
 Book now and let Cali VIP Tours guide you through a journey where culture, music, and dance will steal your heart. Don't miss the opportunity to live an unforgettable experience in the heart of Cali!
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
-
-![Cali Downtown Walking Tour 1](/images/cali-downtown-walking-tour.jpg)
