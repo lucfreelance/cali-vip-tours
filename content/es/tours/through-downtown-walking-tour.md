@@ -1,8 +1,8 @@
 ---
-description: "Through Downtown Walking Tour"
+description: "Caminata por el Centro"
 featured_image: "images/tour-cali-walking-tour-downtown.jpg"
 tags: ["tours"]
-title: "Through Downtown Walking Tour"
+title: "Caminata por el Centro"
 image: "images/tour-cali-walking-tour-downtown.jpg"
 ---
 
@@ -21,3 +21,5 @@ Déjate conquistar por el corazón cálido de esta ciudad mientras su música y 
 **Únete a la Experiencia:** Si estás buscando una manera auténtica de vivir Cali, nuestro Tour a Pie por el Centro es la respuesta. Sea que te apasione la música, el baile, la historia o simplemente sumergirte en la vida cotidiana de la ciudad, este recorrido tiene algo para ti.
 
 Reserva ahora y permite que Cali VIP Tours te guíe a través de una jornada en la que la cultura, la música y la danza te robarán el corazón. ¡No pierdas la oportunidad de vivir una experiencia inolvidable en el corazón de Cali!
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Reserva con nosotros{{< /whatsapp >}}

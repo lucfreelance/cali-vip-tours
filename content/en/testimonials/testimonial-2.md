@@ -1,6 +1,7 @@
 ---
 description: "Alameda Delight: There are something special happening..."
 featured_image: "/images/testimonial-2.jpg"
+image: "/images/testimonial-2.jpg"
 tags: ["testimonials"]
 title: "Paul"
 ---

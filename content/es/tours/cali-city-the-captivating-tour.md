@@ -1,12 +1,10 @@
 ---
-description: "Tour por la Ciudad de Cali"
-featured_image: "/images/cali-city-tour.jpg"
+description: "Tour CAUTIVADOR Ciudad de Cali: San Antonio, Museo Tertulia y el Centro"
+featured_image: "images/tour-cali-city-tour.jpg"
+image: "images/tour-cali-city-tour.jpg"
 tags: ["tours"]
-title: "Tour por la Ciudad de Cali"
+title: "Tour CAUTIVADOR Ciudad de Cali"
 ---
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
 
 Bienvenido al cautivador Tour por la Ciudad de Cali, donde te invitamos a emprender un viaje extraordinario a través del corazón y el alma de esta vibrante ciudad colombiana. En Cali VIP Tours, nuestra pasión por la exploración y el descubrimiento no tiene límites.
 
@@ -22,7 +20,6 @@ Bienvenido al cautivador Tour por la Ciudad de Cali, donde te invitamos a empren
 
 Reserva tu Tour por la Ciudad de Cali ahora y emprende una aventura que promete descubrimiento, inspiración y una conexión con el espíritu de Cali.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Contact us{{< /whatsapp >}}
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Reserva con nosotros{{< /whatsapp >}}
 
 ![Cali City Tour](/images/cali-city-tour.jpg)

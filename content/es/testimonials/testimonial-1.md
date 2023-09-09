@@ -1,8 +1,15 @@
 ---
-description: "Feliz y disfrutable"
+description: "Bello lugar"
 featured_image: "/images/testimonial-1.jpg"
+image: "/images/testimonial-1.jpg"
 tags: ["testimonios"]
-title: "Phil Specktor - Agosto 2023"
+title: "Dave from England"
 ---
 
-Feliz por estar ahí en la bella Cali.
+[![Watch on YouTube](https://i.imgur.com/Rs3dfHN.jpg)](../testimonial-1/testimonial-1.html)
+
+<small>
+> "¡Inolvidable! Cali VIP Tours me proporcionó una experiencia como ninguna otra. Desde el momento en que me uní a su guía, me sentí como si estuviera explorando Cali con un amigo cercano. Los recomiendo para explorar Cali de una manera auténtica y memorable".
+</small>
+
+[Go Back](<javascript:history.go(-1)>)

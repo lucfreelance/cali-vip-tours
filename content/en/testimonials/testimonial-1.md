@@ -1,6 +1,7 @@
 ---
 description: "Nice spot"
 featured_image: "/images/testimonial-1.jpg"
+image: "/images/testimonial-1.jpg"
 tags: ["testimonials"]
 title: "Dave from England"
 ---

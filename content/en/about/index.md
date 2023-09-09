@@ -17,6 +17,7 @@ menu:
 ![Cali](https://media.istockphoto.com/id/473794376/es/foto/ubicaci%C3%B3n-de-cali-azul-contactos-en-el-mapa.jpg?b=1&s=612x612&w=0&k=20&c=OVXXKGbVczZ-061-tFZDmccloOs1WzO5gkKGolKerWo=)
 
 Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia. With over 2.2 million residents, it's the country's third most populous city after Bogotá and Medellín. As the only major Colombian city on the Pacific Coast, Cali is a significant economic hub. It was founded by Spanish explorer Sebastian Belalcázar on July 25, 1536.
+
 | |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Location** | Southwestern Colombia (Valle del Cauca capitol) |
@@ -36,10 +37,10 @@ Cali offers modern services in transportation and communications options for get
 
 ### Public Transportation
 
-- [ ] **Massive Bus System** MIO covers most city surface and can be used since 5:00 AM to 11:00 PM.
-- [ ] **Public Transport:** Besides MIO, some transportation lines still work around the city. You call it '_buses_' or '_colectivos_'
-- [ ] **Taxis:** Taxis are readily available and are a convenient way to explore.
-- [ ] **Rideshare Apps:** Services like Didi, Indrive and others operate in Cali.
+- **Sistema de Autobuses Masivo MIO:** Cubre la mayor parte de la superficie de la ciudad y puede utilizarse desde las 5:00 AM hasta las 11:00 PM.
+- **Transporte Público:** Además de MIO, algunas líneas de transporte todavía operan en la ciudad. Se les llama 'buses' o 'colectivos'.
+- **Taxis:** Los taxis están fácilmente disponibles y son una forma conveniente de explorar la ciudad.
+- **Aplicaciones de Transporte Compartido:** Servicios como Didi, Indrive y otros operan en Cali.
 
 ### Free Wi-Fi
 
@@ -125,7 +126,7 @@ Cali and the Valle region are a haven for bird enthusiasts. Explore lush parks a
 
 {{< figure src="/images/about_16.jpg" title="As friendly as Cali" >}}
 
-In the heart of Colombia's Valle del Cauca, Cali beckons with open arms. This vibrant city is not just a destination; it's a place where friendships are forged and forever cherished. Come experience Cali's warm embrace, where the bonds of friendship keep calling you back.  
+In the heart of Colombia's Valle del Cauca, Cali beckons with open arms. This vibrant city is not just a destination; it's a place where friendships are forged and forever cherished. Come experience Cali's warm embrace, where the bonds of friendship keep calling you back.
 
 ## Medical Tourism and Aesthetic Medicine in Cali
 

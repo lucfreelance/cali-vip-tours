@@ -33,6 +33,4 @@ Cali no se trata solo de deleites urbanos, sino que también es tu puerta de ent
 {{< figure src="/images/blog_explore-the-marvels-of-cali-with-vip-tours-6.jpg" title="Cali VIP Tours" >}}
 En Cali VIP Tours, tu comodidad y satisfacción son nuestras principales prioridades. Nuestros guías expertos se dedican a crear una experiencia que se ajuste a tus intereses, asegurando que aproveches al máximo tu visita. Ya sea que busques aventura, relajación o un poco de ambos, adaptamos cada tour para satisfacer tus deseos.
 
-Únete a nosotros en Cali VIP Tours y abre la puerta a un mundo de belleza, ritmo y exploración. Permítenos ser tus guías en el corazón de Cali, una ciudad que promete capturar tu imaginación y dejarte con recuerdos que perdurarán toda la vida. Tu viaje comienza aquí, y estamos ansiosos por mostrarte las maravillas de Cali.VIP Tours" >
-
-La cocina de Cali es una sinfonía de influencias. Descubre la armoniosa mezcla de sabores indígenas, españoles y afrocolombianos que dan lugar a platos únicos que solo se encuentran aquí. Desde las empanadas hasta el ajiaco, cada bocado cuenta una historia de la diversa herencia de Cali.
+Únete a nosotros en **Cali VIP Tours** y abre la puerta a un mundo de belleza, ritmo y exploración. Permítenos ser tus guías en el corazón de Cali, una ciudad que promete capturar tu imaginación y dejarte con recuerdos que perdurarán toda la vida. Tu viaje comienza aquí, y estamos ansiosos por mostrarte las maravillas de Cali.
