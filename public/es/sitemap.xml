@@ -106,23 +106,23 @@
                 href="https://caliviptours.com/es/about/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/testimonials/testimonial-2/</loc>
+    <loc>https://caliviptours.com/es/testimonials/testimonial-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://caliviptours.com/es/tours/through-downtown-walking-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/testimonials/testimonial-2/"
+                href="https://caliviptours.com/tours/through-downtown-walking-tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/testimonials/testimonial-2/"
+                href="https://caliviptours.com/es/tours/through-downtown-walking-tour/"
                 />
-  </url><url>
-    <loc>https://caliviptours.com/es/testimonials/testimonial-3/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://caliviptours.com/es/categories/</loc>
     <changefreq>monthly</changefreq>
@@ -150,6 +150,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://caliviptours.com/es/contact/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/es/testimonials/testimonial-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/testimonials/testimonial-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/testimonials/testimonial-1/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tours/the-fooding-tour-alameda-market/</loc>
@@ -180,18 +194,18 @@
                 href="https://caliviptours.com/es/tours/private-salsa-lesson-experience-with-locals/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/testimonials/testimonial-1/</loc>
+    <loc>https://caliviptours.com/es/testimonials/testimonial-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/testimonials/testimonial-1/"
+                href="https://caliviptours.com/testimonials/testimonial-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/testimonials/testimonial-1/"
+                href="https://caliviptours.com/es/testimonials/testimonial-2/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tags/testimonials/</loc>
@@ -225,20 +239,6 @@
     <loc>https://caliviptours.com/es/tags/testimonios/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://caliviptours.com/es/tours/through-downtown-walking-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/through-downtown-walking-tour/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/through-downtown-walking-tour/"
-                />
   </url><url>
     <loc>https://caliviptours.com/es/tours/cali-city-the-captivating-tour/</loc>
     <changefreq>monthly</changefreq>

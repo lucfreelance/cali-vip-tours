@@ -106,6 +106,20 @@
                 href="https://caliviptours.com/about/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/tours/cali-city-the-captivating-tour/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tours/cali-city-the-captivating-tour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tours/cali-city-the-captivating-tour/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -230,20 +244,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caliviptours.com/tours/through-downtown-walking-tour/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/tours/cali-city-the-captivating-tour/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tours/cali-city-the-captivating-tour/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tours/cali-city-the-captivating-tour/"
                 />
   </url><url>
     <loc>https://caliviptours.com/tours/</loc>
