@@ -3,7 +3,7 @@ title: "Testimonios"
 featured_image: /images/_testimonials-main.jpg
 ---
 
-_Personas que fueron a Cali por un fin de semana o incluso temporadas más largas y que quisieron compartir su experiencia en el tour VIP de Cali..._
+_Personas que fueron a Cali por un fin de semana o incluso más largas y que quisieron compartir su experiencia en Cali VIP Tours._
 
 <small>
 <div style="text-align: center;">

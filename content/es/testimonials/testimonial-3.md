@@ -1,5 +1,5 @@
 ---
-description: "Otro cliente satisfecho"
+description: "Es como tener un amigo instantáneo en Colombia"
 featured_image: "/images/testimonial-3.jpg"
 image: "/images/testimonial-3.jpg"
 tags: ["testimonials"]

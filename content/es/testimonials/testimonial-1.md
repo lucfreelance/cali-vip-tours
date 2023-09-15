@@ -1,5 +1,5 @@
 ---
-description: "Bello lugar"
+description: "Cali VIP Tours me brindó una experiencia como pocas"
 featured_image: "/images/testimonial-1.jpg"
 image: "/images/testimonial-1.jpg"
 tags: ["testimonios"]

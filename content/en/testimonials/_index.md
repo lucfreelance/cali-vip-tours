@@ -3,7 +3,7 @@ title: "Testimonials"
 featured_image: /images/_testimonials-main.jpg
 ---
 
-_People who went to Cali for a weekend or even longer seasons which liked to leave their Cali VIP tour experience..._
+_People who went to Cali for few days or even longer seasons which liked to leave their Cali VIP tour experience._
 
 <small>
 <div style="text-align: center;">

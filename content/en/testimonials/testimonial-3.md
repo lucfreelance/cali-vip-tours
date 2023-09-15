@@ -1,5 +1,5 @@
 ---
-description: "Another Satisfied Client"
+description: "Is like having an instant friend here in Colombia"
 featured_image: "/images/testimonial-3.jpg"
 image: "/images/testimonial-3.jpg"
 tags: ["testimonials"]

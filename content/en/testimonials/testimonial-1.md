@@ -1,5 +1,5 @@
 ---
-description: "Nice spot"
+description: "Cali VIP Tours provided me with an experience like no other"
 featured_image: "/images/testimonial-1.jpg"
 image: "/images/testimonial-1.jpg"
 tags: ["testimonials"]
