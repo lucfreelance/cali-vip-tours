@@ -190,6 +190,20 @@
                 href="https://caliviptours.com/es/tours/private-salsa-lesson-experience-with-locals/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/es/testimonials/testimonial-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/testimonials/testimonial-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/testimonials/testimonial-3/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/es/testimonials/testimonial-2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -202,6 +216,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://caliviptours.com/es/testimonials/testimonial-2/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/es/tags/testimonials/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tags/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tags/testimonials/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/testimonials/</loc>

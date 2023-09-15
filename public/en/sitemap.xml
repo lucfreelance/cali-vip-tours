@@ -106,6 +106,20 @@
                 href="https://caliviptours.com/about/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/testimonials/testimonial-3/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/testimonials/testimonial-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/testimonials/testimonial-3/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/tours/cali-city-the-captivating-tour/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -147,6 +161,14 @@
                 hreflang="en"
                 href="https://caliviptours.com/contact/"
                 />
+  </url><url>
+    <loc>https://caliviptours.com/testimonials/testimonial-0/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://caliviptours.com/testimonials/testimonial-0/testimonial-0/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://caliviptours.com/testimonials/testimonial-1/</loc>
     <changefreq>monthly</changefreq>
@@ -207,6 +229,16 @@
     <loc>https://caliviptours.com/tags/testimonials/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tags/testimonials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tags/testimonials/"
+                />
   </url><url>
     <loc>https://caliviptours.com/tours/the-fooding-tour-alameda-market/</loc>
     <changefreq>monthly</changefreq>
