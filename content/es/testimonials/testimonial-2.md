@@ -3,7 +3,7 @@ description: "En algún lugar de Chipichape"
 featured_image: "/images/testimonial-2.jpg"
 tags: ["testimonios"]
 image: "/images/testimonial-2.jpg"
-title: "Paul"
+title: "En algún lugar de Chipichape"
 ---
 
 [![Watch on YouTube](/images/testimonial-2-cover.png)](../testimonial-2/testimonial-2.html)

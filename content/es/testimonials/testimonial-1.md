@@ -3,7 +3,7 @@ description: "Bello lugar"
 featured_image: "/images/testimonial-1.jpg"
 image: "/images/testimonial-1.jpg"
 tags: ["testimonios"]
-title: "Dave from England"
+title: "Bello lugar"
 ---
 
 [![Watch on YouTube](https://i.imgur.com/jBv0ghB.jpg)](../testimonial-1/testimonial-1.html)

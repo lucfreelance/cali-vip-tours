@@ -3,7 +3,7 @@ description: "Nice spot"
 featured_image: "/images/testimonial-1.jpg"
 image: "/images/testimonial-1.jpg"
 tags: ["testimonials"]
-title: "Dave from England"
+title: "Nice spot"
 ---
 
 [![Watch on YouTube](https://i.imgur.com/jBv0ghB.jpg)](../testimonial-1/testimonial-1.html)

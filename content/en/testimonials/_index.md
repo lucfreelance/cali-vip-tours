@@ -8,7 +8,6 @@ _People who went to Cali for a weekend or even longer seasons which liked to lea
 <small>
 <div style="text-align: center;">
   {{< figure src="/images/testimonials-1.jpg" >}}
-
   [Go Back](javascript:history.go(-1))
 </div>
 </small>

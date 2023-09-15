@@ -3,7 +3,7 @@ description: "Another Satisfied Client"
 featured_image: "/images/testimonial-3.jpg"
 image: "/images/testimonial-3.jpg"
 tags: ["testimonials"]
-title: "Another Satisfied Client"
+title: "Another satisfied client"
 ---
 
 [![Watch on YouTube](/images/testimonial-3-cover.png)](../testimonial-3/testimonial-3.html)

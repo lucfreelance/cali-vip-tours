@@ -1,9 +1,9 @@
 ---
-description: "Otro Cliente Satisfecho"
+description: "Otro cliente satisfecho"
 featured_image: "/images/testimonial-3.jpg"
 image: "/images/testimonial-3.jpg"
 tags: ["testimonials"]
-title: "Otro Cliente Satisfecho"
+title: "Otro cliente satisfecho"
 ---
 
 [![Mirar en YouTube](/images/testimonial-3-cover.png)](../testimonial-3/testimonial-3.html)
