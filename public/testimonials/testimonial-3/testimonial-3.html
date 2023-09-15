@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonials Cali VIP Tours</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .comments-container {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .comments-container h3 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .comments-container p {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        /* Estilos para el botón */
+        .back-to-previous {
+            display: block;
+            margin: 20px auto;
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="video-container">    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BKtIPM0WOhk?si=ssasSohuhITzWcHK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
+    <div class="comments-container">
+        <h3>Disqus Comments Plate</h3>
+        <p>Leave a comment if you want so</p>
+        
+        <!-- Disqus comments will be displayed here -->
+        <div id="disqus_thread"></div>
+        
+        <!-- Add the Disqus script to load comments -->
+        <script>
+            (function() {
+                var d = document, s = d.createElement('script');
+                s.src = 'https://caliviptours.disqus.com/embed.js'; // Replace YOURUSERNAME with your Disqus username
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+    <!-- Botón para regresar a la página anterior -->
+    <button class="back-to-previous" onclick="goBack()">Go back</button>
+
+    <script>
+        // Función para regresar a la página anterior
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+</body>
+</html>

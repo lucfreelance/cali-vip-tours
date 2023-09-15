@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on Cali VIP Tours</title>
+    <link>https://caliviptours.com/testimonials/</link>
+    <description>Recent content in Testimonials on Cali VIP Tours</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://caliviptours.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another satisfied client</title>
+      <link>https://caliviptours.com/testimonials/testimonial-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caliviptours.com/testimonials/testimonial-3/</guid>
+      <description>&#34;Has being great! From picking me up on time to bring me to my hotel, show me around all the nice restaurants and bars! Is like having an instant friend here in Colombia&#34;.Go Back</description>
+    </item>
+    
+    <item>
+      <title>Nice spot</title>
+      <link>https://caliviptours.com/testimonials/testimonial-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caliviptours.com/testimonials/testimonial-1/</guid>
+      <description>&#34;Unforgettable! Cali VIP Tours provided me with an experience like no other. From the moment I&#39;d join their guide, It felt like exploring Cali with a close friend. I recommend then to explore Cali in an authentic and memorable way&#34;Go Back</description>
+    </item>
+    
+    <item>
+      <title>Somewhere in Chipichape</title>
+      <link>https://caliviptours.com/testimonials/testimonial-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caliviptours.com/testimonials/testimonial-2/</guid>
+      <description>&#34;I would definitely go back to Cali again I had an amazing experience, the unique thing about this tour concept is that you don&#39;t have a guide, you have a friend that takes you through the real Cali culture. Something that I really like is that depending on your need, they will schedule a tour that fits you the best!&#34;Go Back</description>
+    </item>
+    
+  </channel>
+</rss>
