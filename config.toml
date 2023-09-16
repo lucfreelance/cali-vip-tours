@@ -39,29 +39,29 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "Instagram"
 url = "https://instagram.com/caliviptours"
-image = "/instagram.svg"
-featured_image = "/icons/instagram.png"
+image = "/instagram.png"
+featured_image = "/icons/instagram.svg"
 
 [[params.ananke_socials]]
 name = "Twitter"
 url = "https://twitter.com/caliviptours"
-image = "/twitter.svg"
-featured_image = "/icons/twitter.png"
+image = "/twitter.png"
+featured_image = "/icons/twitter.svg"
 
 [[params.ananke_socials]]
 name = "Facebook"
 url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
-image = "/facebook.svg"
-featured_image = "/icons/facebook.png"
+image = "/facebook.png"
+featured_image = "/icons/facebook.svg"
 
 [[params.ananke_socials]]
 name = "YouTube"
 url = "https://www.youtube.com/channel/UCnj7-iThiH3GcF1wAM4CsNQ"
-image = "/youtube.svg"
-featured_image = "/icons/youtube.png"
+image = "/youtube.png"
+featured_image = "/icons/youtube.svg"
 
 [[params.ananke_socials]]
 name = "WhatsApp"
 url = "https://wa.me/573175006706"
-image = "/whatsapp.svg"
-featured_image = "/icons/whatsapp.png"
+image = "/whatsapp.png"
+featured_image = "/icons/whatsapp.svg"
