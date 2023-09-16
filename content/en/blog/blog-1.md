@@ -1,6 +1,6 @@
 ---
 description: "Welcome to our blog, your window into the world of Cali VIP Tours. Step into a realm where Cali's vibrant culture, captivating history, and unforgettable experiences come to life."
-featured-image: /images/blog-welcome-cali-vip-1.jpg
+featured-image: /images/blog-welcome-cali-vip-blog-1.jpg
 tags: ["blog"]
 title: "Welcome to Cali VIP Blog"
 date: 2023-08-15 10:30:00

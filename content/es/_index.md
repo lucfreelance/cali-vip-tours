@@ -25,10 +25,8 @@ En Cali VIP Tours, somos tus guías hacia el alma de este lugar increíble.
 
 ¿Listo para crear recuerdos que durarán toda la vida? Explora nuestros tours y únete a nosotros para descubrir la magia de Cali. Haz que tu visita a Cali sea inolvidable con Cali VIP Tours.
 
-**Why Us?**
-
 {{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Cali VIP Tours" >}}
 
-No somos solo "chicos guía de turismo"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta para ti.
+**Porqué nosotros?**
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Reserva con nosotros{{< /whatsapp >}}
+No somos solo "chicos guía de turismo"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta para ti.
