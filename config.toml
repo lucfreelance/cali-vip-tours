@@ -2,7 +2,7 @@ baseURL = "https://caliviptours.com/"
 languageCode = 'en-us'
 title = "Cali VIP Tours - Colombia - It is all about the experience"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "assets"
+resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -38,21 +38,21 @@ enableRobotsTXT = true
   theme = "ananke"
 
 [[params.ananke_socials]]
-name = "Instagram"
+name = "instagram"
 url = "https://instagram.com/caliviptours"
 
 [[params.ananke_socials]]
-name = "Twitter"
+name = "twitter"
 url = "https://twitter.com/caliviptours"
 
 [[params.ananke_socials]]
-name = "Facebook"
+name = "facebook"
 url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
 
 [[params.ananke_socials]]
-name = "YouTube"
+name = "youtube"
 url = "https://www.youtube.com/channel/UCnj7-iThiH3GcF1wAM4CsNQ"
 
 [[params.ananke_socials]]
-name = "WhatsApp"
+name = "whatsapp"
 url = "https://wa.me/573175006706"
