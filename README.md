@@ -363,3 +363,7 @@ If you find a bug or have an idea for a feature, feel free to use the [issue tra
 TODO:
 
 - fix hard-coded link to [section](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
+
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+# [CLICKABLE TITLE](#)

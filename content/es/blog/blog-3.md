@@ -2,13 +2,14 @@
 description: "Cali se prepara para una celebración única de Amor y Amistad el 15 de Septiembre de 2023. Esta festividad colombiana llena de alegría y cariño es una ocasión perfecta para disfrutar de la ciudad y compartir momentos especiales con tus seres queridos."
 featured-image: /images/blog-welcome-cali-vip-3.jpg
 tags: ["blog"]
-title: "Celebra el Amor y la Amistad en Cali"
+title: "Amor y Amistad en Cali"
 date: 2023-08-15 01:30:00
+menu:
+  main:
+    weight: 6
 ---
 
 ![Cali VIP Tours](/images/blog-welcome-cali-vip-3.jpg)
-
-# [Celebra el Amor y la Amistad en Cali - 15 de Septiembre de 2023](#)
 
 Cali, la capital de la salsa en Colombia, se prepara para una celebración única de Amor y Amistad el 15 de Septiembre de 2023. Esta festividad colombiana llena de alegría y cariño es una ocasión perfecta para disfrutar de la ciudad y compartir momentos especiales con tus seres queridos.
 
@@ -34,3 +35,5 @@ El Día del Amor y la Amistad en Colombia es una fecha especial en la que las pe
 ### ¡Celebra el Amor y la Amistad en Cali!
 
 No te pierdas la oportunidad de vivir el Día del Amor y la Amistad en la vibrante ciudad de Cali. Ven y siente la pasión, la música y el cariño que hacen de esta celebración una experiencia inolvidable. ¡Reserva tus planes y únete a la fiesta en Cali el 15 de Septiembre de 2023! ¡Te esperamos con los brazos abiertos!
+
+{{< whatsapp url="https://wa.me/573175006706?text=Hello,%20" >}}Reserva con nosotros{{< /whatsapp >}}

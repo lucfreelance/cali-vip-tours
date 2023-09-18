@@ -7,6 +7,8 @@ menu:
     weight: 2
 ---
 
+Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia. With over 2.2 million residents, it's the country's third most populous city after Bogotá and Medellín. As the only major Colombian city on the Pacific Coast, Cali is a significant economic hub. It was founded by Spanish explorer Sebastian Belalcázar on July 25, 1536.
+
 {{< googlemap url="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3950644,-76.525664,12z/data=!3m1!4b1!4m6!3m5!1s0x8e30a6f0cc4bb3f1:0x1f0fb5e952ae6168!8m2!3d3.4516467!4d-76.5319854!16zL20vMDFwc3Nm?entry=ttu" >}}Cali Map{{< /googlemap >}}
 {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}Free WiFi{{< /freewifi >}}
 {{< caliconsulates url="https://www.embassypages.com/city/cali" >}}Cali Consulates{{< /caliconsulates >}}
@@ -15,8 +17,6 @@ menu:
 ## General Information
 
 ![Cali](https://media.istockphoto.com/id/473794376/es/foto/ubicaci%C3%B3n-de-cali-azul-contactos-en-el-mapa.jpg?b=1&s=612x612&w=0&k=20&c=OVXXKGbVczZ-061-tFZDmccloOs1WzO5gkKGolKerWo=)
-
-Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia. With over 2.2 million residents, it's the country's third most populous city after Bogotá and Medellín. As the only major Colombian city on the Pacific Coast, Cali is a significant economic hub. It was founded by Spanish explorer Sebastian Belalcázar on July 25, 1536.
 
 | |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |

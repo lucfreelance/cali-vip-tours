@@ -1,11 +1,13 @@
 ---
-title: "Acerca de"
+title: "Sobre Cali"
 description: "Descubre la verdadera ciudad corazón de Colombia, la 'Sultana del Valle', la 'Sucursal del Cielo'"
 featured_image: "/images/_about-cali-main.jpg"
 menu:
   main:
     weight: 2
 ---
+
+Cali, oficialmente Santiago de Cali, es la capital del Valle del Cauca en Colombia. Con más de 2,2 millones de habitantes, es la tercera ciudad más poblada del país después de Bogotá y Medellín. Como la única ciudad colombiana importante en la costa del Pacífico, Cali es un importante centro económico. Fue fundada por el explorador español Sebastián Belalcázar el 25 de julio de 1536.
 
 {{< googlemap url="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3950644,-76.525664,12z/data=!3m1!4b1!4m6!3m5!1s0x8e30a6f0cc4bb3f1:0x1f0fb5e952ae6168!8m2!3d3.4516467!4d-76.5319854!16zL20vMDFwc3Nm?entry=ttu" >}}Cali Map{{< /googlemap >}}
 {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}Free WiFi{{< /freewifi >}}
@@ -15,8 +17,6 @@ menu:
 ## Información General
 
 ![Cali](https://media.istockphoto.com/id/473794376/es/foto/ubicaci%C3%B3n-de-cali-azul-contactos-en-el-mapa.jpg?b=1&s=612x612&w=0&k=20&c=OVXXKGbVczZ-061-tFZDmccloOs1WzO5gkKGolKerWo=)
-
-Cali, oficialmente Santiago de Cali, es la capital del Valle del Cauca en Colombia. Con más de 2,2 millones de habitantes, es la tercera ciudad más poblada del país después de Bogotá y Medellín. Como la única ciudad colombiana importante en la costa del Pacífico, Cali es un importante centro económico. Fue fundada por el explorador español Sebastián Belalcázar el 25 de julio de 1536.
 
 | **Ubicación** | Suroeste de Colombia (capital del Valle del Cauca) |
 | **Población** | Alrededor de 2.5 millones |
@@ -77,18 +77,18 @@ Explora la escena de compras en Cali en estos destacados centros comerciales. ¡
 
 Aquí puedes encontrar algunas de las iglesias cristianas más importantes que están abiertas, por si estás interesado.
 
-| Nombre de la Iglesia           | Denominación        | Dirección                               |
-| ----------------------------- | ------------------- | --------------------------------------- |
-| Iglesia San Antonio            | Católica Romana     | Cl. 2 #5-24, _Barrio San Antonio_       |
-| Iglesia Cristo Rey            | Católica Romana     | Cl. 5 #25-52, _Barrio Cristo Rey_       |
-| Iglesia La Ermita             | Católica Romana     | Cl. 9 #2-17, _Barrio La Ermita_         |
-| Iglesia de San Francisco      | Católica Romana     | Cl. 11 #4-28, _Barrio San Francisco_    |
-| Iglesia Bautista Emmanuel     | Bautista            | Cl. 15 #66-25, _Barrio Santa Elena_     |
-| Centro Cristiano Cali         | No denominacional   | Av. 6N #38-41, _Barrio Santa Teresita_  |
-| Iglesia Luterana Salvador Divino | Luterana         | Cl. 13 #85-04, _Barrio El Refugio_      |
-| Iglesia Comunitaria de Cali   | No denominacional   | Cl. 9 #34A-34, _Barrio Santa Mónica_    |
-| Iglesia Santa Clara           | Católica Romana     | Cl. 6 #8-48, _Barrio Santa Clara_       |
-| Iglesia Menonita de Cali      | Menonita            | Cl. 3 #29-66, _Barrio La Base_          |
+| Nombre de la Iglesia             | Denominación      | Dirección                              |
+| -------------------------------- | ----------------- | -------------------------------------- |
+| Iglesia San Antonio              | Católica Romana   | Cl. 2 #5-24, _Barrio San Antonio_      |
+| Iglesia Cristo Rey               | Católica Romana   | Cl. 5 #25-52, _Barrio Cristo Rey_      |
+| Iglesia La Ermita                | Católica Romana   | Cl. 9 #2-17, _Barrio La Ermita_        |
+| Iglesia de San Francisco         | Católica Romana   | Cl. 11 #4-28, _Barrio San Francisco_   |
+| Iglesia Bautista Emmanuel        | Bautista          | Cl. 15 #66-25, _Barrio Santa Elena_    |
+| Centro Cristiano Cali            | No denominacional | Av. 6N #38-41, _Barrio Santa Teresita_ |
+| Iglesia Luterana Salvador Divino | Luterana          | Cl. 13 #85-04, _Barrio El Refugio_     |
+| Iglesia Comunitaria de Cali      | No denominacional | Cl. 9 #34A-34, _Barrio Santa Mónica_   |
+| Iglesia Santa Clara              | Católica Romana   | Cl. 6 #8-48, _Barrio Santa Clara_      |
+| Iglesia Menonita de Cali         | Menonita          | Cl. 3 #29-66, _Barrio La Base_         |
 
 ## Siete Ríos y la Brisa de la Tarde
 
@@ -248,7 +248,6 @@ Valle del Cauca es el departamento donde Cali es la capital. Este diverso estado
 ![Explora nuestros tours](/images/about_9.jpg)
 
 Seremos el enlace entre tu deseo de visitar Cali y la forma de experimentar lo mejor de Cali y sus alrededores. En Cali VIP Tours, estamos apasionados por presentarte el corazón y el alma de Cali. Nuestros tours están diseñados para brindarte una experiencia inmersiva que va más allá de las atracciones turísticas. Ya sea que busques aventura, cultura o simplemente un toque del encanto único de Cali, tenemos el tour perfecto para ti.
-
 
 {{< googlemap url="https://www.google.com/maps/place/Cali,+Valle+del+Cauca/@3.3950644,-76.525664,12z/data=!3m1!4b1!4m6!3m5!1s0x8e30a6f0cc4bb3f1:0x1f0fb5e952ae6168!8m2!3d3.4516467!4d-76.5319854!16zL20vMDFwc3Nm?entry=ttu" >}}Cali Map{{< /googlemap >}}
 {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}Free WiFi{{< /freewifi >}}

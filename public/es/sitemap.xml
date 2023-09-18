@@ -107,20 +107,6 @@
                 href="https://caliviptours.com/es/blog/blog-3/"
                 />
   </url><url>
-    <loc>https://caliviptours.com/es/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/about/"
-                />
-  </url><url>
     <loc>https://caliviptours.com/es/testimonials/testimonial-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -231,6 +217,20 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://caliviptours.com/es/testimonials/testimonial-3/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/es/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/about/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tags/testimonials/</loc>

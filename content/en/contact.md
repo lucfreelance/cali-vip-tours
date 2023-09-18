@@ -2,11 +2,11 @@
 title: Contact
 featured_image: "/images/_contact-main.jpg"
 omit_header_text: true
-description: We'd love to hear from you At the heart of Cali VIP Tours, we find an overflowing passion to uncover the treasures of our city.
+description: Send us a message, contact us for special request or anyelse.
 type: page
 menu:
   main:
-    weight: 4
+    weight: 9
 ---
 
 {{< form-contact action="https://formspree.io/f/mdorzyzw"  >}}
