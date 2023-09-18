@@ -12,4 +12,4 @@ title: "En algún lugar de Chipichape"
 > "Definitivamente volvería a Cali. Tuve una experiencia increíble. Lo más especial de este concepto de tour es que no tienes un guía, tienes un amigo que te lleva a través de la verdadera cultura de Cali. Algo que realmente me gusta es que, según tus necesidades, programarán un tour que se adapte mejor a ti".
 </small>
 
-[Go Back](<javascript:history.go(-1)>)
+[Regresar](<javascript:history.go(-1)>)

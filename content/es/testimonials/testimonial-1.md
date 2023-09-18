@@ -12,4 +12,4 @@ title: "Bello lugar"
 > "¡Inolvidable! Cali VIP Tours me proporcionó una experiencia como ninguna otra. Desde el momento en que me uní a su guía, me sentí como si estuviera explorando Cali con un amigo cercano. Los recomiendo para explorar Cali de una manera auténtica y memorable".
 </small>
 
-[Go Back](<javascript:history.go(-1)>)
+[Regresar](<javascript:history.go(-1)>)
