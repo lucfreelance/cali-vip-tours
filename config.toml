@@ -42,12 +42,12 @@ name = "instagram"
 url = "https://instagram.com/caliviptours"
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/caliviptours"
-
-[[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/caliviptours"
 
 [[params.ananke_socials]]
 name = "youtube"
