@@ -2,6 +2,7 @@
 title: "Tours"
 featured_image: "/images/_tours-main.jpg"
 image: "/images/_tours-main.jpg"
+type: page
 menu:
   main:
     weight: 1
@@ -25,10 +26,8 @@ Descubre las gemas ocultas de Cali y crea recuerdos duraderos con nuestros exper
 
 > {{< figure src="/images/tours_2_6.png" title="Viaje al Valle y Eje Panorámico de la Región Cafetera" link="https://caliviptours.com/es/tours/trip-to-valle-and-eje-through-coffee-region-panorama/" >}} Experimenta un viaje seguro y cómodo mientras te preparas para una emocionante travesía a través de la pintoresca región cafetera de Colombia. Permítenos ser tus compañeros de viaje desde y hacia Cali. Disfruta de un traslado privado a exuberantes fincas cafeteras, donde aprenderás el arte de la producción de café y saborearás café colombiano recién hecho.
 
+{{< figure src="/images/tours_2.png" title="Servicio de Recogida en el Aeropuerto" >}}
+
 {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20" >}}Reserva con nosotros{{< /whatsapp >}}
-
-## Servicio de Recogida en el Aeropuerto
-
-[![Cali VIP Tours](/images/tours_2.png)](https://wa.me/573175006706?text=Hello%20/%20Hola%20)Reserva con nosotros
 
 ¿Llegando a Cali? Permítenos hacer que tu viaje sea sin estrés con nuestro servicio de recogida en el aeropuerto. Nuestro amable equipo te recibirá en el Aeropuerto Internacional Alfonso Bonilla Aragón (CLO) y garantizará un traslado cómodo y seguro a tu alojamiento. ¡Comienza tu aventura en Cali con facilidad!

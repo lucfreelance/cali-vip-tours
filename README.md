@@ -364,6 +364,12 @@ TODO:
 
 - fix hard-coded link to [section](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
 
-    # languageDirection = 'rtl' for Right-To-Left languages
+  # languageDirection = 'rtl' for Right-To-Left languages
 
 # [CLICKABLE TITLE](#)
+
+- [![Cali VIP Tours](/images/tours_2.png)](https://wa.me/573175006706?text=Hello%20/%20Hola%20)Reserva con nosotros
+
+Footage inscription
+
+-

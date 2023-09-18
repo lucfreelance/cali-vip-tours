@@ -297,16 +297,6 @@
     <loc>https://caliviptours.com/tags/tours/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tags/tours/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tags/tours/"
-                />
   </url><url>
     <loc>https://caliviptours.com/tours/trip-to-san-cipriano-river-tour-adventure/</loc>
     <changefreq>monthly</changefreq>

@@ -1,6 +1,7 @@
 ---
 title: "Testimonios"
 featured_image: "/images/_testimonials-main.jpg"
+type: page
 ---
 
 > _Personas que fueron a Cali por un fin de semana o incluso más y que quisieron compartir su experiencia en Cali VIP Tours_.

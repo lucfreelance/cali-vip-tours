@@ -1,6 +1,7 @@
 ---
 title: "Testimonials"
 featured_image: "/images/_testimonials-main.jpg"
+type: page
 ---
 
 > _People who went to Cali for few days or even longer seasons which liked to leave their Cali VIP tour experience._

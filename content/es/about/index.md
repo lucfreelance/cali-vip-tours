@@ -2,6 +2,7 @@
 title: "Sobre Cali"
 description: "Descubre la verdadera ciudad corazón de Colombia, la 'Sultana del Valle', la 'Sucursal del Cielo'"
 featured_image: "/images/_about-cali-main.jpg"
+type: page
 menu:
   main:
     weight: 2

@@ -284,6 +284,10 @@
                 href="https://caliviptours.com/es/tours/cali-city-the-captivating-tour/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/es/tags/toures/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://caliviptours.com/es/tours/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -296,20 +300,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://caliviptours.com/es/tours/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/es/tags/tours/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tags/tours/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tags/tours/"
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tours/trip-to-san-cipriano-river-tour-adventure/</loc>

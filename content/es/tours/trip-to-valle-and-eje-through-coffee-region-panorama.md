@@ -1,9 +1,9 @@
 ---
 description: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
 featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
-tags: ["tours"]
-title: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
 image: "images/tour-coffee-tour-region-private-transfer.jpg"
+tags: ["toures"]
+title: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
 ---
 
 ![Transfer Privado para la Región Cafetera](/images/coffee-region-private-transfer.jpg)

@@ -13,6 +13,6 @@ menu:
 
 Cali VIP Tours is a project dedicated to showcasing the essence of Cali in a unique way.
 
-Contact us for further information for assistance and booking:
+Contact us for further information, assistance or booking a guide tour.
 
 [Go Back](<javascript:history.go(-1)>)

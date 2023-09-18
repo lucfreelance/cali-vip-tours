@@ -2,6 +2,7 @@
 title: "About Cali"
 description: "Discover the real city heart of Colombia: Cali, Valle del Cauca"
 featured_image: "/images/_about-cali-main.jpg"
+type: page
 menu:
   main:
     weight: 2

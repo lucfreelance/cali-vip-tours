@@ -1,9 +1,9 @@
 ---
 description: "Caminata por el Centro"
 featured_image: "images/tour-cali-walking-tour-downtown.jpg"
-tags: ["tours"]
-title: "Caminata por el Centro"
 image: "images/tour-cali-walking-tour-downtown.jpg"
+tags: ["toures"]
+title: "Caminata por el Centro"
 ---
 
 Déjate conquistar por el corazón cálido de esta ciudad mientras su música y baile te envuelven en este recorrido a pie por los lugares principales de Cali.

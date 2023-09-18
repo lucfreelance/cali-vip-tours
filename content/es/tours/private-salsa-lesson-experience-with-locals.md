@@ -1,9 +1,9 @@
 ---
 description: "Experiencia de Clases Privadas de Salsa (Con Locales)"
 featured_image: "/images/tour-private-salsa-lesson-experience.jpg"
-tags: ["tours"]
-title: "Experiencia de Clase Privada de Salsa"
 image: "/images/tour-private-salsa-lesson-experience.jpg"
+tags: ["toures"]
+title: "Experiencia de Clase Privada de Salsa"
 ---
 
 Bienvenido a la emocionante Experiencia de Clases Privadas de Salsa (Con Locales). ¡Supérate a ti mismo y conoce Cali a través de su mejor expresión cultural: ¡la Salsa! ¡Prepara tus zapatos de baile! Aprende los sensuales movimientos de la Salsa de expertos locales. Ya seas un principiante o un bailarín experimentado, esta lección privada hará que sientas el latido de la ciudad.

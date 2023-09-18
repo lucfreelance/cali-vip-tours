@@ -2,6 +2,7 @@
 title: "Tours"
 featured_image: "/images/_tours-main.jpg"
 image: "/images/_tours-main.jpg"
+type: page
 menu:
   main:
     weight: 1
@@ -25,10 +26,8 @@ Discover the hidden gems of Cali and create lasting memories with our expert gui
 
 > {{< figure src="/images/tours_2_6.png" title="Trip to _Valle_ and _Eje_ Through Coffee Region Panorama" link="https://caliviptours.com/tours/trip-to-valle-and-eje-through-coffee-region-panorama/" >}} Experience safe and comfortable travel as you prepare for an exciting journey through the picturesque coffee region of Colombia. Let us be your companions on journey from and to Cali. Enjoy a private transfer to lush coffee farms, where you'll learn the art of coffee production and savor freshly brewed Colombian coffee.
 
+{{< figure src="/images/tours_2.png" title="Airport Pick-Up Service" >}}
+
 {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20" >}}Book with us{{< /whatsapp >}}
-
-## Airport Pick-Up Service
-
-{{< figure src="/images/tours_2.png" title="Cali VIP Tours" >}}
 
 Arriving in Cali? Let us make your journey stress-free with our airport pick-up service. Our friendly team will meet you at Alfonso Bonilla Aragón International Airport (CLO) and ensure a comfortable and safe transfer to your accommodations. Start your Cali adventure with Cali VIP Tours ease!
