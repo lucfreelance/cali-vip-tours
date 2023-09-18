@@ -22,4 +22,4 @@ Cali, la tercera ciudad más grande de Colombia, es una metrópolis vibrante con
 
 {{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Porqué nosotros?" >}}
 
-No somos solo "chicos guía de turismo"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta para ti.
+No somos solo "guía de turismo"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta para ti.

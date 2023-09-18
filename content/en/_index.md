@@ -24,4 +24,4 @@ Ready to create memories that will last a lifetime? Browse our tours and join us
 
 {{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Why us?" >}}
 
-Straight answer to that question: We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours have the perfect experience for you. Take a look to our new tours:
+We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours have the perfect experience for you. Take a look to our new tours:

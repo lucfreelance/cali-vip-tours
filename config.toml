@@ -30,7 +30,7 @@ enableRobotsTXT = true
   text_color = ""
   author = "calivip"
   favicon = "/icons/favicon.ico"
-  site_logo = "/logos/logo.jpg"
+  site_logo = "logos/logo-trans.png"
   description = "Cali VIP Tours Colombia - It's all about the experience"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
