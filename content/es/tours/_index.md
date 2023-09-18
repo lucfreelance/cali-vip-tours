@@ -1,7 +1,7 @@
 ---
 title: "Tours"
-featured_image: /images/_tours-main.jpg
-image: /images/_tours-main.jpg
+featured_image: "/images/_tours-main.jpg"
+image: "/images/_tours-main.jpg"
 menu:
   main:
     weight: 1
