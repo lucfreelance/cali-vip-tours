@@ -7,9 +7,7 @@ menu:
     weight: 1
 ---
 
-{{< figure src="/images/tours_1.jpg" title="Cali VIP Tours" >}}
-
-## Explora Cali con Cali VIP Tours
+{{< figure src="/images/tours_1.jpg" title="Explora Cali con Cali VIP Tours" >}}
 
 Bienvenido a Cali VIP Tours, tu gateway para experimentar lo mejor de Cali y sus alrededores. Nuestros tours están cuidadosamente diseñados para ofrecerte experiencias inmersivas que van más allá de las típicas atracciones turísticas. Ya sea que busques aventura, cultura, o simplemente un sabor del encanto único de Cali, tenemos el tour perfecto para ti.
 
