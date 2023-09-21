@@ -3,7 +3,7 @@ description: "Cali se prepara para una celebración única de Amor y Amistad el 
 featured_image: "/images/blog-welcome-cali-vip-9.jpg"
 tags: ["blog", "Celebraciones"]
 title: "Amor y Amistad en Cali"
-date: 2023-08-15 01:30:00
+date: 2023-08-15 01:30:00-05:00
 menu:
   main:
     weight: 6

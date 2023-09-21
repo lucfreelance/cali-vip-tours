@@ -3,7 +3,7 @@ description: "Bienvenido a nuestro blog, tu ventana al mundo de Cali VIP Tours. 
 featured_image: "/images/blog-welcome-cali-vip-1.jpg"
 tags: ["blog"]
 title: "Bienvenido al Blog de Cali VIP"
-date: 2023-08-15 10:30:00
+date: 2023-08-15 10:30:00-05:00
 menu:
   main:
     weight: 8

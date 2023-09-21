@@ -3,7 +3,7 @@ description: "¡Prepárate para una increíble aventura por la vibrante ciudad d
 featured_image: "/images/blog-explore-the-marvels-of-cali-with-vip-tours-1.jpg"
 tags: ["blog"]
 title: "¡Explora las Maravillas de Cali con VIP Tours"
-date: 2023-08-22 09:30:00
+date: 2023-08-22 09:30:00-05:00
 menu:
   main:
     weight: 7
