@@ -6,7 +6,7 @@ title: "Amor y Amistad en Cali"
 date: 2023-08-15 01:30:00-05:00
 menu:
   main:
-    weight: 6
+    weight: 8
     parent: blog
 ---
 

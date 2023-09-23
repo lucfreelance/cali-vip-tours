@@ -6,7 +6,7 @@ title: "Welcome to Cali VIP Blog"
 date: 2023-08-15 10:30:00-05:00
 menu:
   main:
-    weight: 8
+    weight: 6
     parent: blog
 ---
 

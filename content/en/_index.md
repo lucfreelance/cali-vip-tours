@@ -1,27 +1,18 @@
 ---
-title: "Cali VIP Tours"
-description: "It's all about the experience"
+title: "Discover the Heartbeat of Cali"
+description: "Stay tuned for an unforgettable journey through the heart of Cali"
 featured_image: "/images/__cali-vip-tours-main.jpg"
 image: "/images/__cali-vip-tours-main.jpg"
 type: page
 ---
+""
+When you step into the heart of Cali, you're not just embarking on a tour; you're diving headfirst into a world of captivating stories, cultural wonders, and the irresistible flavors that make Cali unique. We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours has the perfect experience waiting for you. Join us as we unlock the hidden gems and share the soul of Cali through our lens. Explore the new tours we have in store for you:
 
-{{< figure src="/images/tour_cali-vip-tours-4.jpg" title="Discover the Heartbeat of Cali" >}}
+{{< figure src="/images/tour_cali-vip-tours-1.jpg" title="" >}}
+{{< figure src="/images/tour_cali-vip-tours-2.jpg" title="" >}}
+{{< figure src="/images/tour_cali-vip-tours-3.jpg" title="" >}}
+{{< figure src="/images/tour_cali-vip-tours-4.jpg" title="Book with us" >}}
 
-Welcome to your Cali VIP Tours website, where you can find key information about a vibrant city where culture and the heartbeat of Salsa fill the air: Santiago de Cali.
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20Cali%20VIP%20Tours,%20" >}}WhatsApp{{< /whatsapp >}}
 
-Explore Cali's lively streets with us. Feel the passion of dancing, savor the flavors of colombian cuisine, and uncover the hidden gems of this captivating city. Your adventure begins with Cali VIP Tours. At Cali VIP Tours, we are your guides to the soul of this incredible place.
-
-{{< figure src="/images/tour_cali-vip-tours-1.jpg" title="Cali: Colombia's Pacific Gem" >}}
-
-Most of visitors tells that this city known for its warm tropical climate and rich cultural offerings. It boasts attractions like the Cali Zoo, historic neighborhoods, and stunning viewpoints like Cristo Rey. The city's pet-friendly parks and birdwatching opportunities make it a nature lover's paradise. 
-
-With consulates from various countries, it's a welcoming destination. Beyond Cali, the Valle del Cauca region offers diverse natural wonders and colonial cities to explore.
-
-{{< figure src="/images/tour_cali-vip-tours-3.jpg" title="Book Your Experience*" >}}
-
-Ready to create memories that will last a lifetime? Browse our tours and join us in discovering the magic of Cali. Make your visit to Cali unforgettable with Cali VIP Tours.
-
-{{< figure src="/images/tour_cali-vip-tours-2.jpg" title="Why us?" >}}
-
-We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours have the perfect experience for you. Take a look to our new tours:
+We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours have the perfect experience for you. Take a look to our recent tours:

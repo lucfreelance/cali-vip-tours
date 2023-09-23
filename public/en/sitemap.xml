@@ -92,10 +92,55 @@
                 href="https://caliviptours.com/blog/blog-1/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/blog/blog-0/</loc>
+    <lastmod>2023-08-15T01:30:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/blog/blog-0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/blog/blog-0/"
+                />
+  </url><url>
+    <loc>https://caliviptours.com/tags/cali/</loc>
+    <lastmod>2023-08-15T01:30:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/tags/cali/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/tags/cali/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/tags/celebrations/</loc>
     <lastmod>2023-08-15T01:30:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://caliviptours.com/blog/blog-4/</loc>
+    <lastmod>2023-08-15T01:30:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/blog/blog-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/blog/blog-4/"
+                />
   </url><url>
     <loc>https://caliviptours.com/blog/blog-3/</loc>
     <lastmod>2023-08-15T01:30:00-05:00</lastmod>
@@ -110,20 +155,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caliviptours.com/blog/blog-3/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/about/"
                 />
   </url><url>
     <loc>https://caliviptours.com/testimonials/testimonial-3/</loc>
