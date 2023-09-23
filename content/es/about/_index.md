@@ -1,11 +1,11 @@
 ---
-title: "Sobre Cali"
+title: "About Cali"
 description: "Descubre la verdadera ciudad corazón de Colombia, la 'Sultana del Valle', la 'Sucursal del Cielo'"
 featured_image: "/images/_about-cali-main.jpg"
-type: page
 menu:
   main:
     weight: 2
+draft: true
 ---
 
 Cali, oficialmente Santiago de Cali, es la capital del Valle del Cauca en Colombia. Con más de 2,2 millones de habitantes, es la tercera ciudad más poblada del país después de Bogotá y Medellín. Como la única ciudad colombiana importante en la costa del Pacífico, Cali es un importante centro económico. Fue fundada por el explorador español Sebastián Belalcázar el 25 de julio de 1536.

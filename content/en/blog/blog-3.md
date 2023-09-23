@@ -7,6 +7,7 @@ date: 2023-08-15 01:30:00-05:00
 menu:
   main:
     weight: 6
+    parent: blog
 ---
 
 ![Cali VIP Tours](/images/blog-welcome-cali-vip-3.jpg)

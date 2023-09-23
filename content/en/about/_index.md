@@ -2,10 +2,10 @@
 title: "About Cali"
 description: "Discover the real city heart of Colombia: Cali, Valle del Cauca"
 featured_image: "/images/_about-cali-main.jpg"
-type: page
 menu:
   main:
     weight: 2
+draft: true
 ---
 
 Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia. With over 2.2 million residents, it's the country's third most populous city after Bogotá and Medellín. As the only major Colombian city on the Pacific Coast, Cali is a significant economic hub. It was founded by Spanish explorer Sebastian Belalcázar on July 25, 1536.
