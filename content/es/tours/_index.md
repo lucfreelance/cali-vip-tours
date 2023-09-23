@@ -17,11 +17,11 @@ Bienvenido a la ciudad de Cali, donde puedes experimentar la mejor experiencia t
   | Sumérgete en la rica historia y cultura de Cali. Explora barrios históricos, visita mercados locales y disfruta de la cocina tradicional colombiana para emprender un viaje extraordinario a través del corazón y el alma de esta vibrante ciudad colombiana..
   [[Leer más]](https://caliviptours.com/tours/cali-city-the-captivating-tour/) 
 ---
->  ![Cali VIP Tours](/images/tour_cali-vip-tours-2.jpg)PRIVATE SALSA LESSON EXPERIENCE (WITH LOCALS)
+>  ![Cali VIP Tours](/images/tour_cali-vip-tours-7.jpg)PRIVATE SALSA LESSON EXPERIENCE (WITH LOCALS)
   | Desafíate a ti mismo y conoce Cali a través de su mejor expresión cultural: ¡la Salsa! ¡Ponte tus zapatos de baile! Aprende los movimientos sensuales de la Salsa de manos de expertos locales. Ya seas principiante o experimentado bailarín, esta lección privada hará que tu corazón lata al ritmo de la ciudad...
   [[Leer más]](https://caliviptours.com/tours/private-salsa-lesson-experience-with-locals/)
 ---
->  ![Cali VIP Tours](/images/tour_cali-vip-tours-3.jpg)THE FOODING TOUR ALAMEDA MARKET
+>  ![Cali VIP Tours](/images/tour_cali-vip-tours-8.jpg)THE FOODING TOUR ALAMEDA MARKET
   | Experimenta la cultura colombiana y saborea los sabores de Cali a través de esta auténtica experiencia local de degustación de alimentos en el Mercado Alameda. Satisface tus papilas gustativas en una aventura culinaria en...
   [[Leer más]](https://caliviptours.com/tours/the-fooding-tour-alameda-market/)
 ---
