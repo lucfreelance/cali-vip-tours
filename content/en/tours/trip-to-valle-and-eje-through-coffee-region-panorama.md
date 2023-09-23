@@ -1,9 +1,9 @@
 ---
 description: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama - Cozzye and Spectacular"
-featured_image: "images/tour-coffee-tour-region-private-transfer.jpg"
+featured_image: "images/tour_cali-vip-tours-12.jpg"
+image: "images/tour_cali-vip-tours-6.jpg"
 tags: ["tours"]
 title: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama"
-image: "images/tour-coffee-tour-region-private-transfer.jpg"
 ---
 
 Experience safe and comfortable travel as you prepare for an exciting journey through the picturesque coffee region of Colombia. Let us be your companions on journey from and to Cali. Enjoy a private transfer to lush coffee farms, where you'll learn the art of coffee production and savor freshly brewed colombian coffee.
@@ -20,4 +20,4 @@ Experience safe and comfortable travel as you prepare for an exciting journey th
 
 **Book Your Transfer:** If you're looking for a stress-free and enjoyable way to travel between Cali and the captivating coffee region, our Private Transfer service is the perfect solution. Reserve your transfer now and let Cali VIP Tours ensure that every leg of your journey is as memorable as the destination itself.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

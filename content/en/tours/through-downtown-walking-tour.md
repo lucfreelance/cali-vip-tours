@@ -1,9 +1,9 @@
 ---
 description: "Through Downtown Walking Tour"
-featured_image: "images/tour-cali-walking-tour-downtown.jpg"
+featured_image: "images/tour_cali-vip-tours-10.jpg"
+image: "images/tour_cali-vip-tours-4.jpg"
 tags: ["tours"]
 title: "Through Downtown Walking Tour"
-image: "images/tour-cali-walking-tour-downtown.jpg"
 ---
 
 Take a leisurely stroll through the heart of Cali, where history and modernity converge. Discover colonial architecture, vibrant street art, lively markets and the singing city: Welcome to the thrilling downtown side tour to catch the vibrant essence of the city that awaits us at every corner.
@@ -22,4 +22,4 @@ Take a leisurely stroll through the heart of Cali, where history and modernity c
 
 Book now and let Cali VIP Tours guide you through a journey where culture, music, and dance will steal your heart. Don't miss the opportunity to live an unforgettable experience in the heart of Cali!
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

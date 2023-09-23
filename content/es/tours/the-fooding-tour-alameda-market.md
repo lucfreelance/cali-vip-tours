@@ -1,6 +1,6 @@
 ---
 description: "El Tour Gastronómico en el Mercado de Alameda"
-featured_image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
+featured_image: "images/tour_cali-vip-tours-9.jpg"
 image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 tags: ["toures"]
 title: "El Tour Gastronómico en el Mercado de Alameda"

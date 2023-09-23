@@ -1,7 +1,7 @@
 ---
 description: "Caminata por el Centro"
-featured_image: "images/tour-cali-walking-tour-downtown.jpg"
-image: "images/tour-cali-walking-tour-downtown.jpg"
+featured_image: "images/tour_cali-vip-tours-10.jpg"
+image: "images/tour_cali-vip-tours-4.jpg"
 tags: ["toures"]
 title: "Caminata por el Centro"
 ---

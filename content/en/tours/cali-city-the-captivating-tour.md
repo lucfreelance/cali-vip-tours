@@ -1,8 +1,9 @@
 ---
 description: "Cali City the CAPTIVATING TOUR: San Antonio, Tertulia Museum & Downtown"
-featured_image: "images/tour-cali-city-tour.jpg"
+featured_image: "images/tour_cali-vip-tours-7.jpg"
 image: "images/cali-city-tour.jpg"
 tags: ["tours"]
+type: "blog"
 title: "Cali City the CAPTIVATING TOUR"
 image: "images/tour-cali-city-tour.jpg"
 ---
@@ -21,4 +22,4 @@ Immerse yourself in the rich history and culture of Cali. Explore historic neigh
 
 Book your Cali City Tour now and embark on an adventure that promises discovery, inspiration, and a connection to the spirit of Cali.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

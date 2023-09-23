@@ -1,10 +1,10 @@
 ---
-title: "Eventos"
+title: "Eventos gratuitos"
 featured_image: "/images/_events-main.jpg"
 draft: false
 type: events
 ---
 
-> _Check the cultural, entertainment and artistic agenda for next days at Cali_
+> _Explore la agenda cultural, de entretenimiento y artística de los próximos días en Cali, que presenta emocionantes eventos de forma gratuita._
 
-[PRONTO]
+[<a href="javascript:history.back()">[PRONTO]</a>]

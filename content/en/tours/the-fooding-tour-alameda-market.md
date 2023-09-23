@@ -1,13 +1,11 @@
 ---
 description: "The Fooding Tour Alameda Market"
-featured_image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
+featured_image: "images/tour_cali-vip-tours-9.jpg"
 tags: ["tours"]
 title: "The Fooding Tour Alameda Market"
 disable_share: false
 image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 ---
-
-# Welcome to Cali VIP Tours
 
 ![Cali VIP Tours](/images/tour-the-fooding-tour-alameda-market-4.jpg)
 
@@ -51,6 +49,4 @@ Cali VIP Tours invites you to sit, savor, and share the joy of discovering Cali'
 
 Come hungry for adventure and leave with your heart filled with the flavors of Cali. Join us as we explore the world of Cali's culinary delights, an experience that will surely leave you craving for more.
 
-[Contact us via WhatsApp](https://wa.me/573175006706?text=Hello%20/%20Hola%20)
-
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

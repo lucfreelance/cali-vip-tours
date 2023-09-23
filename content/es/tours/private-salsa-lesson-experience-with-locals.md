@@ -1,6 +1,6 @@
 ---
 description: "Experiencia de Clases Privadas de Salsa (Con Locales)"
-featured_image: "/images/tour-private-salsa-lesson-experience.jpg"
+featured_image: "/images/tour_cali-vip-tours-8.jpg"
 image: "/images/tour-private-salsa-lesson-experience.jpg"
 tags: ["toures"]
 title: "Experiencia de Clase Privada de Salsa"

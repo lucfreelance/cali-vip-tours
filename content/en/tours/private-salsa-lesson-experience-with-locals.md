@@ -1,6 +1,6 @@
 ---
 description: "Private Salsa Lesson Experience (With Locals)"
-featured_image: "images/tour-private-salsa-lesson-experience.jpg"
+featured_image: "images/tour_cali-vip-tours-8.jpg"
 tags: ["tours"]
 title: "Private Salsa Lesson Experience (With Locals)"
 image: "images/tour-private-salsa-lesson-experience.jpg"
@@ -58,4 +58,4 @@ Cali VIP Tours invites you to step into the world of Salsa, where every sway and
 
 Are you ready to dance to the heartbeat of Cali? Join us as we unveil the city's vibrant rhythms and embark on a Salsa journey that will leave you moving to the melodies long after the tour ends.
 
-{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book with us{{< /whatsapp >}}
+{{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

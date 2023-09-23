@@ -35,6 +35,7 @@ enableRobotsTXT = true
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
   recent_posts_number = 6
+  custom_css = ["css/custom.css"]
   theme = "ananke"
 
 [[params.ananke_socials]]
