@@ -12,9 +12,7 @@ Take a leisurely stroll through the heart of Cali, where history and modernity c
 
 **Explore Streets and Plazas:** Our journey begins at the iconic Cayzedo Square, a place full of history and energy. As you stroll along the cobblestone streets, you'll feel the city come alive around you. The bustling plazas and colorful murals will transport you to the authentic Cali.
 
-**Immerse in Salsa:** Dance and music are the soul of Cali, and on this tour, you'll immerse yourself in the passion of salsa. Visit the famous Avenida Sexta, where Latin rhythms merge with the city's festive atmosphere. Feel free to move your feet and join the infectious joy.
-
-**Local Flavors:** There's no better way to get to know a culture than through its cuisine. On this tour, you'll have the opportunity to taste authentic local flavors at markets and street stalls. From sweet delights to savory dishes, Cali's flavors will conquer you.
+![Cali VIP Tours](/images/tour_entry_3.jpg)**Stroll through Downtown:** Our journey then takes us to the heart of Cali's downtown. Marvel at the blend of modern skyscrapers and historic architecture that showcases the city's evolution over time. Cali's downtown is a dynamic hub where tradition and progress coexist harmoniously.
 
 **A Charming Finale:** Our journey concludes in the charming San Antonio neighborhood, famous for its colorful architecture and narrow cobblestone streets. In this final stretch, you'll enjoy panoramic views that capture Cali's unique beauty.
 

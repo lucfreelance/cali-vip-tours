@@ -8,12 +8,9 @@ menu:
     weight: 1
 ---
 
-{{< figure src="/images/tours_1.jpg" title="" >}}
-![Cali VIP Tours](/images/tours_1.jpg)Cali VIP Tours
-
 Bienvenido a la ciudad de Cali, donde puedes experimentar la mejor experiencia turística de esta tierra y sus alrededores. Nuestros tours están cuidadosamente diseñados para brindarte experiencias inmersivas que van más allá de las típicas atracciones turísticas. Ya sea que busques aventura, cultura o simplemente un toque del encanto único de Cali, ¡tenemos el tour perfecto para ti!
 
-> ![Cali VIP Tours](/images/tour_cali-vip-tours-1.jpg)CALI CITY THE CAPTIVATING TOUR
+> ![Cali VIP Tours](/images/tour_cali-vip-tours-6.jpg)CALI CITY THE CAPTIVATING TOUR
   | Sumérgete en la rica historia y cultura de Cali. Explora barrios históricos, visita mercados locales y disfruta de la cocina tradicional colombiana para emprender un viaje extraordinario a través del corazón y el alma de esta vibrante ciudad colombiana..
   [[Leer más]](https://caliviptours.com/tours/cali-city-the-captivating-tour/) 
 ---
