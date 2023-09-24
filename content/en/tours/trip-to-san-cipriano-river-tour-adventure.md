@@ -1,7 +1,7 @@
 ---
 description: "Trip to San Cipriano Tour Adventure"
-featured_image: "/images/tour_cali-vip-tours-11.jpg"
-image: "/images/tour_cali-vip-tours-5.jpg"
+featured_image: "/images/tour_main_cover_5.jpg"
+image: "/images/tour_main_cover_5.jpg"
 tags: ["tours"]
 title: "Trip to San Cipriano Tour Adventure"
 ---

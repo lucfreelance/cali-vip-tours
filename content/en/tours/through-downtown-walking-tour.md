@@ -1,7 +1,7 @@
 ---
 description: "Through Downtown Walking Tour"
-featured_image: "images/tour_cali-vip-tours-10.jpg"
-image: "images/tour_cali-vip-tours-4.jpg"
+featured_image: "images/tour_main_cover_4.jpg"
+image: "images/tour_main_cover_4.jpg"
 tags: ["tours"]
 title: "Through Downtown Walking Tour"
 ---

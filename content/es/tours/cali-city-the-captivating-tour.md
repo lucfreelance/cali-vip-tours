@@ -1,7 +1,7 @@
 ---
 description: "Tour CAUTIVADOR Ciudad de Cali: San Antonio, Museo Tertulia y el Centro"
-featured_image: "images/tour_cali-vip-tours-7.jpg"
-image: "images/tour-cali-city-tour.jpg"
+featured_image: "images/tour_main_cover_1.jpg"
+image: "images/tour_main_cover_1.jpg"
 tags: ["toures"]
 type: "blog"
 title: "Tour Ciudad de Cali CAUTIVADOR"

@@ -1,9 +1,9 @@
 ---
 description: "Private Salsa Lesson Experience (With Locals)"
-featured_image: "images/tour_cali-vip-tours-8.jpg"
+featured_image: "images/tour_main_cover_2.jpg"
+image: "images/tour_main_cover_2.jpg"
 tags: ["tours"]
 title: "Private Salsa Lesson Experience (With Locals)"
-image: "images/tour-private-salsa-lesson-experience.jpg"
 ---
 
 Welcome to the exciting Private Salsa Lesson Experience (With Locals) .Challenge yourself and get to know Cali through its best cultural expression: Salsa! Get your dancing shoes on! The private lessons will have you heart beat.

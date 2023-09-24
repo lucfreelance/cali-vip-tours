@@ -1,7 +1,7 @@
 ---
 description: "Cali City the CAPTIVATING TOUR: San Antonio, Tertulia & Downtown"
-featured_image: "images/tour_cali-vip-tours-7.jpg"
-image: "images/cali-city-tour.jpg"
+featured_image: "images/tour_main_cover_1.jpg"
+image: "images/tour_main_cover_1.jpg"
 tags: ["tours"]
 type: "blog"
 title: "Cali City the CAPTIVATING TOUR"

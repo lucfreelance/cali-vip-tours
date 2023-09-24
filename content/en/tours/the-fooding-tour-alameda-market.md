@@ -1,10 +1,10 @@
 ---
 description: "The Fooding Tour Alameda Market"
-featured_image: "images/tour_cali-vip-tours-19.png"
+featured_image: "images/tour_main_cover_3.jpg"
+image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 tags: ["tours"]
 title: "The Fooding Tour Alameda Market Exploration"
 disable_share: false
-image: "images/tour-the-fooding-tour-alameda-market-1.jpg"
 ---
 
 This is an invitation to exploring Alameda Market in a culinary adventure in the heart of Cali. Nestled in the central neighborhood of Alameda, Alameda Market offers a vibrant and authentic taste of Colombian culture. You are the main guess of this floavor adventure for every taste. Get in on a culinary hub journey in this traditional local borough market.

@@ -2,7 +2,7 @@ baseURL = "https://caliviptours.com/"
 languageCode = 'en-us'
 title = "Cali VIP Tours - Colombia - It is all about the experience"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+resourceDir = "./resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
