@@ -1,11 +1,10 @@
 ---
-description: "Cali City the CAPTIVATING TOUR: San Antonio, Tertulia Museum & Downtown"
+description: "Cali City the CAPTIVATING TOUR: San Antonio, Tertulia & Downtown"
 featured_image: "images/tour_cali-vip-tours-7.jpg"
 image: "images/cali-city-tour.jpg"
 tags: ["tours"]
 type: "blog"
 title: "Cali City the CAPTIVATING TOUR"
-image: "images/tour-cali-city-tour.jpg"
 ---
 
 Immerse yourself in the rich history and culture of Cali. Explore historic neighborhoods, visit local markets, and savor traditional Colombian cuisine to embark on an extraordinary journey through the heart and soul of this vibrant Colombian city. At Cali VIP Tours, our passion for exploration and discovery knows no bounds.
@@ -24,7 +23,9 @@ Immerse yourself in the rich history and culture of Cali. Explore historic neigh
 
 ---
 
-Whether you're a history enthusiast, an art lover, or simply someone eager to experience the authentic heartbeat of Cali, our City Tour is designed for you. Join Cali VIP Tours on this unforgettable expedition and be part of the story that is written in every corner of this captivating city.
+![Cali VIP Tours](/images/tour_entry_30.jpg)**Joy us:**Whether you're a history enthusiast, an art lover, or simply someone eager to experience the authentic heartbeat of Cali, our City Tour is designed for you. Join Cali VIP Tours on this unforgettable expedition and be part of the story that is written in every corner of this captivating city.
+
+---
 
 Book your Cali City Tour now and embark on an adventure that promises discovery, inspiration, and a connection to the spirit of Cali.
 

@@ -12,11 +12,11 @@ Welcome to the exciting Private Salsa Lesson Experience (With Locals) .Challenge
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_4.jpg)**Learn from Locals:** Our unique approach allows you to learn Salsa directly from locals. You'll not only learn the steps but also gain a deep understanding of the history and cultural significance of this artistic expression. The lessons take place in a cozy and relaxed environment, making learning a delightful experience. Whether you're an enthusiastic beginner or already have some moves, our private Salsa lessons will adapt to your level. Our expert instructors will guide you step by step, helping you develop your dance skills and confidence.
+![Cali VIP Tours](/images/tour_entry_4.jpg)**Learn from locals:** Our unique approach allows you to learn Salsa directly from locals. You'll not only learn the steps but also gain a deep understanding of the history and cultural significance of this artistic expression. The lessons take place in a cozy and relaxed environment, making learning a delightful experience. Whether you're an enthusiastic beginner or already have some moves, our private Salsa lessons will adapt to your level. Our expert instructors will guide you step by step, helping you develop your dance skills and confidence.
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_5.jpg)**Dance Like a Local:** Let us introduce you to Salsa's masters – the dancers and musicians who breathe life into this art form. Join expert-guided visits to local dance schools, where you'll learn the moves, hear the stories, and feel the passion that makes Salsa an integral part of Cali's identity. After your lesson, it's time to put into practice what you've learned! Join the locals on the dance floors and experience Cali's true nightlife. With your newfound dance confidence, you'll be ready to move with style.
+![Cali VIP Tours](/images/tour_entry_5.jpg)**Dance like a local:** Let us introduce you to Salsa's masters – the dancers and musicians who breathe life into this art form. Join expert-guided visits to local dance schools, where you'll learn the moves, hear the stories, and feel the passion that makes Salsa an integral part of Cali's identity. After your lesson, it's time to put into practice what you've learned! Join the locals on the dance floors and experience Cali's true nightlife. With your newfound dance confidence, you'll be ready to move with style.
 
 ---
 
