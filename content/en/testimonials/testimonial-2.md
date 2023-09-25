@@ -1,7 +1,7 @@
 ---
 description: "The unique thing about this tour concept is that you don't have a guide, you have a friend"
-featured_image: "/images/testimonial-2.jpg"
-image: "/images/testimonial-2.jpg"
+featured_image: "/cover/testimonial-2.jpg"
+image: "/cover/testimonial-2.jpg"
 tags: ["testimonials"]
 title: "Somewhere in Chipichape"
 ---

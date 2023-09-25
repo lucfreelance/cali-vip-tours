@@ -1,8 +1,8 @@
 ---
 description: "En algún lugar de Chipichape"
-featured_image: "/images/testimonial-2.jpg"
+featured_image: "/cover/testimonial-2.jpg"
+image: "/cover/testimonial-2.jpg"
 tags: ["testimonios"]
-image: "/images/testimonial-2.jpg"
 title: "En algún lugar de Chipichape"
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: "Bienvenido a nuestro blog, tu ventana al mundo de Cali VIP Tours. Adéntrate en un reino donde la vibrante cultura, la cautivadora historia y las experiencias inolvidables de Cali cobran vida."
-featured_image: "/images/blog-welcome-cali-vip-1.jpg"
+featured_image: "/images/blog_cover_1.jpg"
 tags: ["blog"]
 title: "Bienvenido al Blog de Cali VIP"
 date: 2023-08-15 10:30:00-05:00
@@ -10,7 +10,7 @@ menu:
     parent: blog
 ---
 
-![Cali VIP Tours](/images/blog-welcome-cali-vip-1.jpg)
+> ![Cali VIP Tours](/images/blog_1.jpg) 
 
 Bienvenido a nuestro blog, tu ventana al mundo de Cali VIP Tours. Adéntrate en un reino donde la vibrante cultura, la cautivadora historia y las experiencias inolvidables de Cali cobran vida.
 
@@ -21,5 +21,3 @@ Desde la energía electrizante del baile de salsa hasta el intrincado tapiz del 
 Acompáñanos en un viaje que trae Cali a tu pantalla, ofreciendo un vistazo a sus ritmos, sabores y tradiciones. Ya sea que estés planeando una futura visita o buscando revivir recuerdos queridos, nuestro blog proporciona una conexión con el espíritu de Cali VIP Tours.
 
 Mantente atento mientras desvelamos narrativas que resuenan con el alma de Cali, proporcionando un portal a su mundo encantador. Aventurémonos juntos en el corazón de la belleza y la emoción de Cali, un viaje que trasciende distancias y celebra el encanto del descubrimiento.
-
-{{< figure src="/images/blog_welcome-cali-vip-blog-2.jpg" title="Cali VIP Tours" >}}

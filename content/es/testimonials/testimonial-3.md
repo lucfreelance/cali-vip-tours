@@ -1,7 +1,7 @@
 ---
 description: "Es como tener un amigo instantáneo en Colombia"
-featured_image: "/images/testimonial-3.jpg"
-image: "/images/testimonial-3.jpg"
+featured_image: "/cover/testimonial-3.jpg"
+image: "/cover/testimonial-3.jpg"
 tags: ["testimonials"]
 title: "Otro cliente satisfecho"
 ---
