@@ -32,6 +32,6 @@ Beyond food, our tour provides a unique opportunity to connect with unique flavo
 
 ---
 
-Reserve your culinary spot now and gain a deeper appreciation for the traditions of Colombian cuisine through our Fooding Tour at Alameda Market.Cali VIP Tours invites you to join us for a true feast for the senses. From street food to elegant restaurants, our carefully designed culinary experiences are sure to satisfy your hunger for adventure. Leave with your heart filled with the flavors of Cali and a craving for more as you explore the world of Cali's culinary delights with us.
+Reserve your culinary spot now and gain a deeper appreciation for the traditions of Colombian cuisine through our Fooding Tour at Alameda Market. Cali VIP Tours invites you to join us for a true feast for the senses as you explore the world of Cali's culinary delights with us.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Book a Tour{{< /whatsapp >}}

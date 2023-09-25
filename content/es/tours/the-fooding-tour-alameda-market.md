@@ -33,8 +33,6 @@ Experimenta la Cultura Colombiana y Saborea los Sabores de Cali a Través de est
 
 ---
 
-Reserva tu aventura culinaria si eres un entusiasta de la comida que busca descubrir el corazón y el alma de la cocina de Cali, nuestro Tour Gastronómico en el Mercado de Alameda es la experiencia perfecta. Reserva tu lugar ahora y prepárate para un viaje de sabor, cultura y conexión que te dejará con una apreciación más profunda de las tradiciones culinarias colombianas.
-
-Prepara tus papilas gustativas para un viaje lleno de sabores mientras nos sumergimos en los sabores de Cali con Cali VIP Tours. Más allá de su cultura vibrante y ritmos pulsantes, la escena culinaria de Cali es un tesoro esperando ser saboreado.
+Reserva tu aventura culinaria si eres un entusiasta de la comida que busca descubrir el corazón y el alma de la cocina de Cali, nuestro tour gastronómico en el Mercado de Alameda es la experiencia perfecta. Reserva tu lugar ahora y prepárate para un viaje de sabor, cultura y conexión que te dejará con una apreciación más profunda de las tradiciones culinarias colombianas.
 
 {{< whatsapp url="https://wa.me/573175006706?text=Hello%20/%20Hola%20" >}}Reserva con nosotros{{< /whatsapp >}}
