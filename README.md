@@ -1,8 +1,19 @@
-# Cali VIP Tours _made with [Hugo](https://gohugo.io/), a framework for building websites._
+# Cali VIP Tours
 
-This is the based website for Cali VIP Tours enterprise.
+```
+ ______     ______     __         __
+/\  ___\   /\  __ \   /\ \       /\ \  𝕍𝕀ℙ 𝕍𝕀ℙ
+\ \ \____  \ \ \_\ \  \ \ \____  \ \ \ 𝕍𝕀ℙ  𝕍𝕀ℙ
+ \ \_____\  \ \_\ \_\  \ \_____\  \ \_\𝕋𝕠𝕦𝕣𝕤 𝕋𝕠𝕦𝕣𝕤
+  \/_____/   \/_/·/_/   \/_____/   \/_/ 𝕋𝕠𝕦𝕣𝕤 𝕋𝕠𝕦𝕣𝕤
+```
 
-[URL](https://caliviptours.com/)
+> Made with [Hugo](https://gohugo.io/) +
+> [Ananke](https://gohugo.io/)
+>
+> > [URL](https://caliviptours.com/)
+
+_This is the based website for Cali VIP Tours enterprise._
 
 ## Features
 
@@ -10,12 +21,12 @@ This is the based website for Cali VIP Tours enterprise.
 - Accessible
 - Contact form
 - Custom Robots.txt (changes values based on environment)
-- Internal templates for meta data, google analytics, and DISQUS or COMMENTO comments
+- Internal templates for meta data, google analytics, and DISQUS
 - RSS Discovery
 - Table of Contents (must declare `toc: true` in post parameter)
 - Stackbit configuration ([Stackbit](https://www.stackbit.com))
 
-Also includes examples of Hugo Features or Functions:
+### Hugo Features or Functions:
 
 - Pagination (internal template)
 - Taxonomies
@@ -24,23 +35,15 @@ Also includes examples of Hugo Features or Functions:
 - Related content
 - Hugo built-in menu
 - i18n
-- `with`
-- `HUGO_ENV`
-- `first`
-- `after`
-- `sort`
 - Site LanguageCode
-- `where`
 - Content Views
 - Partials
 - Template layouts (type "post" uses a special list template, single template, and a content view)
 - Tags
-- `len`
 - Conditionals
-- `ge` (greater than or equal to)
 - `.Site.Params.mainSections` to avoid hard-coding "blog," etc. [[release note](https://github.com/gohugoio/hugo/blob/66ec6305f6cb450ddf9c489854146bac02f7dca1/docs/content/meta/release-notes.md#enhancements)]
 
-# Styles [Tachyons]
+## Styles [Tachyons]
 
 This theme uses the "Tachyons" CSS library. This will allow you to manipulate the design of the theme by changing class names in HTML without touching the original CSS files. For more information see the [Tachyons website](https://tachyons.io/).
 
@@ -200,6 +203,17 @@ params:
       label: TND Twitter
 ```
 
+#### Extra Commands
+
+- `with`
+- `HUGO_ENV`
+- `first`
+- `after`
+- `sort`
+- `where`
+- `len`
+- `ge` (greater than or equal to)
+
 #### Social Icons Customization
 
 On top of easily customizing the built-in services' label and color, user can overwrite their icon by adding an svg file at `/assets/ananke/socials` with a filename matching the service's name.
@@ -227,11 +241,11 @@ Here is the list of built-in services. Those marked with an `*` are also part of
 
 In order to add an unkown service (absent from the list above), you simply need to add all three settings to `ananke_socials`: name, url, label, color, and optionally add an icon file matching the `name` to the `assets/ananke/socials` directory. In the absence of an icon, the theme will print the service's label.
 
-### Content indexing
+#### Content indexing
 
 If the theme is ran in [production](#production), pages will be indexed by search engines. To prevent indexing on some given pages, add `private: true` to its Front Matter.
 
-### Update font or body classes
+#### Update font or body classes
 
 The theme is set, by default, to use a near-white background color and the "Avenir" or serif typeface. You can change these in your config file with the `body_classes` parameter, like this:
 
@@ -254,7 +268,7 @@ And a list of background colors [here](https://github.com/tachyons-css/tachyons/
 
 _n.b. in future versions we will likely separate the typeface and other body classes._
 
-### CSS
+#### CSS
 
 Ananke stylesheet is built with Hugo Pipes's [Asset Bundling](https://gohugo.io/hugo-pipes/bundling/#readout) alone to maximize compatibiliy. The theme simply bundles its several files into one minified and fingerprinted (in production) CSS file.
 
@@ -368,8 +382,4 @@ TODO:
 
 # [CLICKABLE TITLE](#)
 
-- [![Cali VIP Tours](/images/tours_2.png)](https://wa.me/573175006706?text=Hello%20/%20Hola%20)Reserva con nosotros
-
-Footage inscription
-
--
+- [![Cali VIP Tours](/images/tours_2.png)](https://wa.me/573175006706?text=Hello,%20)WhatsApp Contact
