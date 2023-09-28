@@ -8,7 +8,7 @@ type: events
 tags: ["events"]
 menu:
   main:
-    weight: 7
+    weight: #
     parent: events
 some_other_value:
   { { .Site.Params.some_other_value | default "Default Value" } }
@@ -22,7 +22,7 @@ some_other_value:
       <div class="custom-card">
         <h2>{{ .Title }}</h2>
         <p>{{ .Description }}</p>
-        <a href="{{ .RelPermalink }}" class="custom-button">Leer más</a>
+        <a href="{{ .RelPermalink }}" class="custom-button">Read more</a>
       </div>
     {{ end }}
   {{ end }}

@@ -1,7 +1,7 @@
 ---
 description: "Experiencia de Clases Privadas de Salsa (Con Locales)"
-featured_image: "images/tour_main_cover_2.jpg"
-image: "images/tour_main_cover_2.jpg"
+featured_image: "covers/tour-main-cover-2.jpg"
+image: "covers/tour-main-cover-2.jpg"
 tags: ["toures"]
 title: "Experiencia de Clase Privada de Salsa"
 ---
@@ -12,11 +12,11 @@ Bienvenido a la emocionante Experiencia de Clases Privadas de Salsa (Con Locales
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_4.jpg)**Aprende de los Locales:** Nuestro enfoque único te permite aprender Salsa directamente de locales. No solo aprenderás los pasos, sino que también obtendrás una comprensión profunda de la historia y el significado cultural de esta expresión artística. Las lecciones se llevan a cabo en un ambiente acogedor y relajado, lo que hace que el aprendizaje sea una experiencia encantadora.
+![Cali VIP Tours](/images/tour-entry-4.jpg)**Aprende de los Locales:** Nuestro enfoque único te permite aprender Salsa directamente de locales. No solo aprenderás los pasos, sino que también obtendrás una comprensión profunda de la historia y el significado cultural de esta expresión artística. Las lecciones se llevan a cabo en un ambiente acogedor y relajado, lo que hace que el aprendizaje sea una experiencia encantadora.
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_5.jpg)**Baila como un Local:** ¡Después de tu lección, es hora de poner en práctica lo que has aprendido! Únete a los locales en las pistas de baile y experimenta la verdadera vida nocturna de Cali. Con tu nueva confianza en el baile, estarás listo para moverte con estilo.
+![Cali VIP Tours](/images/tour-entry-5.jpg)**Baila como un Local:** ¡Después de tu lección, es hora de poner en práctica lo que has aprendido! Únete a los locales en las pistas de baile y experimenta la verdadera vida nocturna de Cali. Con tu nueva confianza en el baile, estarás listo para moverte con estilo.
 
 ---
 
@@ -26,11 +26,11 @@ La Salsa es más que solo movimientos; es una ventana a la vibrante cultura de C
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_6.jpg)**¡Bailemos!:** Cali VIP Tours te invita a entrar en el mundo de la Salsa, donde cada balanceo y giro cuenta una historia. Siente la música, conecta con la cultura y sé parte del ritmo que define a Cali. Nuestros tours guiados te llevan a los mejores lugares para experimentar la emocionante vida nocturna de Cali. Baila, conecta y crea recuerdos que capturan la esencia del alma de Cali.
+![Cali VIP Tours](/images/tour-entry-6.jpg)**¡Bailemos!:** Cali VIP Tours te invita a entrar en el mundo de la Salsa, donde cada balanceo y giro cuenta una historia. Siente la música, conecta con la cultura y sé parte del ritmo que define a Cali. Nuestros tours guiados te llevan a los mejores lugares para experimentar la emocionante vida nocturna de Cali. Baila, conecta y crea recuerdos que capturan la esencia del alma de Cali.
 
 ---
 
-![Cali VIP Tours](/images/tour_entry_7.jpg)**Reserva tu Experiencia:** Si deseas sumergirte en la Salsa, aprender de los mejores y experimentar Cali de una manera única, nuestra Experiencia de Clases Privadas de Salsa es perfecta para ti. ¡Reserva ahora y prepárate para moverte al ritmo de la ciudad que nunca deja de bailar!
+![Cali VIP Tours](/images/tour-entry-7.jpg)**Reserva tu Experiencia:** Si deseas sumergirte en la Salsa, aprender de los mejores y experimentar Cali de una manera única, nuestra Experiencia de Clases Privadas de Salsa es perfecta para ti. ¡Reserva ahora y prepárate para moverte al ritmo de la ciudad que nunca deja de bailar!
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Descubre el Latido de Cali"
 description: "Cali es una ciudad vibrante donde la cultura y el latido de la Salsa llenan el aire"
-featured_image: "/images/__cali-vip-tours-main.jpg"
-image: "/images/__cali-vip-tours-main.jpg"
+featured_image: "/covers/__home-main.jpg"
+image: "/covers/__home-main.jpg"
 type: page
 ---
 

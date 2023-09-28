@@ -13,6 +13,6 @@ menu:
 
 Cali VIP Tours es un proyecto dedicado a mostrar la esencia de Cali de una manera única.
 
-Contáctanos para obtener más información o para obtener ayuda y reservas.
+Si deseas obtener más detalles, información adicional, asistencia, reservar un tour con guía o simplemente decir 'hola', por favor utiliza este formulario.
 
 [Volver](<javascript:history.go(-1)>)

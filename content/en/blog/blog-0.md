@@ -1,6 +1,6 @@
 ---
 description: "Discover the real city heart of Colombia: Cali, Valle del Cauca"
-featured_image: "/images/_about-cali-main.jpg"
+featured_image: "/covers/__home-main.jpg"
 tags: ["blog", "cali"]
 title: "About Cali"
 date: 2023-08-15 01:30:00-05:00
@@ -40,7 +40,7 @@ Cali, officially Santiago de Cali, is the capital of Valle del Cauca in Colombia
 
 ## Getting Around Cali
 
-> ![Cali VIP Tours](/images/about_2.jpg) Cali public transportation
+> ![Cali VIP Tours](/images/about-2.jpg) Cali public transportation
 
 Cali offers modern services in transportation and communications options for getting around the city and keep you connected world wide.
 
@@ -55,7 +55,7 @@ Cali offers modern services in transportation and communications options for get
 
 ### Free Wi-Fi
 
-> ![Cali VIP Tours](/images/about_11.jpg) {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}Cali WiFi hotspots{{< /freewifi >}}
+> ![Cali VIP Tours](/images/about-11.jpg) {{< freewifi url="https://www.cali.gov.co/tic/publicaciones/150070/zonas-wi-fi/" >}}Cali WiFi hotspots{{< /freewifi >}}
 
 Cali offers free Wi-Fi in many public places, including parks, shopping centers, and some restaurants. Look for networks labeled "wifi Gratis / free wifi"
 
@@ -63,7 +63,7 @@ Cali offers free Wi-Fi in many public places, including parks, shopping centers,
 
 ## Places of Interest
 
-> ![Cali VIP Tours](/images/about_3.jpg) Cali landmarks & landspots
+> ![Cali VIP Tours](/images/about-3.jpg) Cali landmarks & landspots
 
 Here are some must-visit places in Cali:
 
@@ -76,7 +76,7 @@ Here are some must-visit places in Cali:
 
 ## Shopping Destinations
 
-> ![Cali VIP Tours](/images/about_4.jpg) Cali shopping malls
+> ![Cali VIP Tours](/images/about-4.jpg) Cali shopping malls
 
 Explore Cali's shopping scene at these prominent commercial centers. Mark the ones you plan to visit and enjoy your shopping adventures in Cali!
 
@@ -90,7 +90,7 @@ Explore Cali's shopping scene at these prominent commercial centers. Mark the on
 
 ## Cali Consulates
 
-> ![Cali VIP Tours](/images/about_8.jpg) {{< caliconsulates url="https://www.embassypages.com/city/cali" >}}Cali Consulates directory{{< /caliconsulates >}}
+> ![Cali VIP Tours](/images/about-8.jpg) {{< caliconsulates url="https://www.embassypages.com/city/cali" >}}Cali Consulates directory{{< /caliconsulates >}}
 
 Should you require consular assistance, here are the consulates in Cali:
 
@@ -129,7 +129,7 @@ Should you require consular assistance, here are the consulates in Cali:
 
 ## Churches in Cali
 
-> ![Cali VIP Tours](/images/about_5.jpg) Cali churches; Cali have faith
+> ![Cali VIP Tours](/images/about-5.jpg) Cali churches; Cali have faith
 
 Find some of the more important traditional churches open around the municipality:
 
@@ -150,7 +150,7 @@ Find some of the more important traditional churches open around the municipalit
 
 ## Seven Rivers and the Afternoon Breeze
 
-> ![Cali VIP Tours](/images/about_6.jpg) For quiet and refresh days for swimming...
+> ![Cali VIP Tours](/images/about-6.jpg) For quiet and refresh days for swimming...
 
 Cali is unique for its seven rivers, which weave through the city, adding natural beauty to the urban landscape. Additionally, the famous "Alisios" breeze, which arrives every afternoon, provides a refreshing respite from the tropical heat.
 
@@ -166,7 +166,7 @@ Cali is unique for its seven rivers, which weave through the city, adding natura
 
 ## Your Destination for Love and Romance
 
-> ![Cali VIP Tours](/images/about_10.jpg) Cali is lovely, of course
+> ![Cali VIP Tours](/images/about-10.jpg) Cali is lovely, of course
 
 Cali, nestled in the enchanting Valle del Cauca of Colombia, is celebrated as an idyllic destination for lovers and those on a quest for romance. If you're in search of love and enchantment, this vibrant city awaits your love discovery.
 
@@ -174,7 +174,7 @@ Cali, nestled in the enchanting Valle del Cauca of Colombia, is celebrated as an
 
 ## Cali Unleashed: The Pet-Friendly Paradise
 
-> ![Cali VIP Tours](/images/about_13.jpg) Pet lovers welcome here
+> ![Cali VIP Tours](/images/about-13.jpg) Pet lovers welcome here
 
 Cali boasts a plethora of pet-friendly parks where your furry pals can stretch their legs and make new friends. _Parque del Perro_ at San Fernando, by example, and as the name suggests, is a favorite among dog owners. Here, you'll find dogs of all shapes and sizes running, playing, and enjoying the outdoors of this captivating urban spot.
 
@@ -182,7 +182,7 @@ Cali boasts a plethora of pet-friendly parks where your furry pals can stretch t
 
 ## Cali's Bird-Watcher's Delight: Where Feathered Friends Soar
 
-> ![Cali VIP Tours](/images/about_14.jpg) Birds, birds everywhere
+> ![Cali VIP Tours](/images/about-14.jpg) Birds, birds everywhere
 
 Officially recognized, Cali and the Valle del Cauca region are a haven for bird enthusiasts. Colombia has, in fact, been officially recognized as the second region with the most bird biodiversity, with the Valle del Cauca being the area where the highest number of bird species in the nation are concentrated. Explore lush parks and reserves an unforgettable experience for avid bird watchers.
 
@@ -190,7 +190,7 @@ Officially recognized, Cali and the Valle del Cauca region are a haven for bird 
 
 ## Extreme Sports Are Also Welcome
 
-> ![Cali VIP Tours](/images/about_15.jpg) Adrenaline is a plus: X Sports
+> ![Cali VIP Tours](/images/about-15.jpg) Adrenaline is a plus: X Sports
 
 Extreme sports enthusiasts, get ready for heart-pounding adventures in Cali! Offering a wide range of adrenaline-pumping activities. We have something for every adventure seeker. Join us for an unforgettable journey that combines the excitement of extreme sports with the beauty of Cali's natural wonders."
 
@@ -198,7 +198,7 @@ Extreme sports enthusiasts, get ready for heart-pounding adventures in Cali! Off
 
 ## Cali: Where Friends Always Return
 
-> ![Cali VIP Tours](/images/about_16.jpg) As friendly as Cali" >
+> ![Cali VIP Tours](/images/about-16.jpg) As friendly as Cali" >
 
 In the heart of Colombia's Valle del Cauca, Cali beckons with open arms. This town is not just a tourism destination; it's a place where friendships are forever cherished. Come experience Cali's warm people, you can find a frind, meet for one, or come here with your friends and have a nice days with us.
 
@@ -206,7 +206,7 @@ In the heart of Colombia's Valle del Cauca, Cali beckons with open arms. This to
 
 ### Wellness and Spa
 
-> ![Cali VIP Tours](/images/about_21.jpg) Wellness services
+> ![Cali VIP Tours](/images/about-21.jpg) Wellness services
 
 Relax and rejuvenate with spa and wellness treatments, promoting overall health and well-being.
 
@@ -227,7 +227,7 @@ Relax and rejuvenate with spa and wellness treatments, promoting overall health 
 
 ### Aesthetic Medicine
 
-> ![Cali VIP Tours](/images/about_18.jpg) A world class health care hub
+> ![Cali VIP Tours](/images/about-18.jpg) A world class health care hub
 
 Aestethic surgery and threatments are available all year. People around world went Cali to proceed with this kind of surgeries.
 
@@ -245,7 +245,7 @@ Aestethic surgery and threatments are available all year. People around world we
 
 ### Odontological Services
 
-> ![Cali VIP Tours](/images/about_19.jpg) Medical tourism at Cali, Colombia
+> ![Cali VIP Tours](/images/about-19.jpg) Medical tourism at Cali, Colombia
 
 For dental services, here in the city are committed to providing high-quality services, ensuring your safety, comfort, and satisfaction throughout your tourism journey. All procedures you need may be covered by the local offer like this:
 
@@ -269,7 +269,7 @@ For dental services, here in the city are committed to providing high-quality se
 
 ### Medical procedures top professional level in Cali
 
-> ![Cali VIP Tours](/images/about_7.jpg) Cali is healthy"
+> ![Cali VIP Tours](/images/about-7.jpg) Cali is healthy"
 
 Cali is not only known for its cultural richness and natural beauty but also as a hub for medical tourism and aesthetic medicine. The city offers a wide range of medical services and procedures, attracting visitors from around the world seeking high-quality healthcare and cosmetic treatments.
 
@@ -289,7 +289,7 @@ Cali is not only known for its cultural richness and natural beauty but also as 
 
 #### **Why Choose Cali for Medical Tourism?:**
 
-> ![Cali VIP Tours](/images/about_20.jpg) Medical tourism at Cali, Colombia
+> ![Cali VIP Tours](/images/about-20.jpg) Medical tourism at Cali, Colombia
 
 In Cali you'll find comprehensive support for medical services for tourists, very affordable and top quality. Medical institutions in Cali adhere to strict safety and hygiene standards. Many facilities are accredited by international organizations, providing patients with peace of mind.
 
@@ -317,7 +317,7 @@ In Cali you'll find comprehensive support for medical services for tourists, ver
 
 ### Safety Tips for Tourists
 
-> ![Cali VIP Tours](/images/about_12.jpg) Keep safe!
+> ![Cali VIP Tours](/images/about-12.jpg) Keep safe!
 
 > - [🛍️] Stay alert and keep an eye on your belongings.
 > - [🛍️] Avoid lonely lit areas at night.
@@ -328,7 +328,7 @@ In Cali you'll find comprehensive support for medical services for tourists, ver
 
 ## Cali is Fine But, What About Valle del Cauca?
 
-> ![Cali VIP Tours](/images/about_17.jpg) Valle del Cauca
+> ![Cali VIP Tours](/images/about-17.jpg) Valle del Cauca
 
 Valle del Cauca is the 'departamento' (or state, province) where Cali is the capital. This diverse state offers a wide range of attractions and natural wonders waiting to be explored. From the fertile Cauca River valley that lends its name to the region to the lush green coffee plantations that dot the landscape, Valle del Cauca is a paradise for nature enthusiasts. You can also explore the vibrant culture and history of the region through its colonial cities, such as Buga, Tulua, Ginebra, Calima, Cartago and more. Or savory the delicious Valle cuisine, which includes mouthwatering dishes like _sancocho_ and _arroz atollado_. Whether you're interested in outdoor adventures, cultural experiences, or simply relaxing amid breathtaking scenery, Valle del Cauca has something for everyone to enjoy.
 
@@ -336,7 +336,7 @@ Valle del Cauca is the 'departamento' (or state, province) where Cali is the cap
 
 ## Explore the city with Cali VIP Tours
 
-> ![Cali VIP Tours](/images/about_9.jpg)
+> ![Cali VIP Tours](/images/about-9.jpg)
 >
 > > We'll be the gate between your Cali desire and the way to experience the best of Cali and its surroundings. At Cali VIP Tours, we're passionate about introducing you to the heart and soul of Cali. Our tours are crafted to provide an immersive experience that goes beyond the tourist attractions. Whether you're seeking adventure, culture, or simply a taste of Cali's unique charm, we have the perfect tour for you.
 > >

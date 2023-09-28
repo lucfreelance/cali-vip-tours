@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caliviptours.com/es/blog/</loc>
-    <lastmod>2023-08-22T09:30:00-05:00</lastmod>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +18,7 @@
                 />
   </url><url>
     <loc>https://caliviptours.com/es/tags/blog/</loc>
-    <lastmod>2023-08-22T09:30:00-05:00</lastmod>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,7 +33,7 @@
                 />
   </url><url>
     <loc>https://caliviptours.com/es/</loc>
-    <lastmod>2023-08-22T09:30:00-05:00</lastmod>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -47,8 +47,28 @@
                 href="https://caliviptours.com/es/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/es/tags/graffitis/</loc>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://caliviptours.com/es/blog/mural-interventions-in-cali/</loc>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/blog/mural-interventions-in-cali/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/blog/mural-interventions-in-cali/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/es/tags/</loc>
-    <lastmod>2023-08-22T09:30:00-05:00</lastmod>
+    <lastmod>2023-09-27T16:50:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link

@@ -47,13 +47,13 @@ name = "facebook"
 url = "https://www.facebook.com/profile.php?id=61550541183437&mibextid=ZbWKwL"
 
 [[params.ananke_socials]]
+name = "whatsapp"
+url = "https://wa.me/573175006706"
+
+[[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/caliviptours"
 
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/channel/UCnj7-iThiH3GcF1wAM4CsNQ"
-
-[[params.ananke_socials]]
-name = "whatsapp"
-url = "https://wa.me/573175006706"
