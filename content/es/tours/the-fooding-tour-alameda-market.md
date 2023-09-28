@@ -1,7 +1,7 @@
 ---
 description: "El Tour Gastronómico en el Mercado de Alameda"
-featured_image: "covers/tour-main-cover-3.jpg"
-image: "covers/tour-main-cover-3"
+featured_image: "/covers/tour-main-cover-3.jpg"
+image: "/covers/tour-main-cover-3.jpg"
 tags: ["toures"]
 title: "El Tour Gastronómico en el Mercado de Alameda"
 disable_share: false

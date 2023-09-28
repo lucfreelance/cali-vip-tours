@@ -1,6 +1,7 @@
 ---
 description: "Cali se prepara para una celebración única de Amor y Amistad el 15 de Septiembre de 2023. Esta festividad colombiana llena de alegría y cariño es una ocasión perfecta para disfrutar de la ciudad y compartir momentos especiales con tus seres queridos."
 featured_image: "/covers/blog-cover-3.jpg"
+image: "/covers/blog-cover-3.jpg"
 tags: ["blog", "Celebraciones"]
 title: "Amor y Amistad en Cali"
 date: 2023-08-15 01:30:00-05:00

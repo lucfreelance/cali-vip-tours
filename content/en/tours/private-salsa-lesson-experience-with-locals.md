@@ -1,6 +1,6 @@
 ---
 description: "Private Salsa Lesson Experience (With Locals)"
-featured_image: "covers/tour_main_cover_2.jpg"
+featured_image: "/covers/tour_main_cover_2.jpg"
 image: "covers/tour-main-cover-2.jpg"
 tags: ["tours"]
 title: "Private Salsa Lesson Experience (With Locals)"

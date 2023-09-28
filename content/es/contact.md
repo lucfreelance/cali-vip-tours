@@ -1,6 +1,6 @@
 ---
 title: Contacto
-featured_image: "/images/_contact-main.jpg"
+featured_image: "/covers/_contact-main.jpg"
 omit_header_text: true
 description: Envíanos un mensaje, contactanos para un requerimiento o algo más.
 type: page

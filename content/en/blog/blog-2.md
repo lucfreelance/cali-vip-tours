@@ -1,6 +1,7 @@
 ---
 description: "Get ready for an incredible adventure through the vibrant city of Cali! Look no further than Cali VIP Tours, your ultimate companion for delving into the heart and soul of Colombia."
 featured_image: "/covers/blog-cover-2.jpg"
+image: "/covers/blog-cover-2.jpg"
 tags: ["blog"]
 title: "Explore the Marvels of Cali with VIP Tours!"
 date: 2023-08-22 09:30:00-05:00

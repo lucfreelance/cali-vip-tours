@@ -1,6 +1,6 @@
 ---
 description: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama - Cozzye and Spectacular"
-featured_image: "covers/tour-main-cover-6.jpg"
+featured_image: "/covers/tour-main-cover-6.jpg"
 image: "covers/tour-main-cover-6.jpg"
 tags: ["tours"]
 title: "Trip to Valle and Eje Cafetero Through Coffee Region Panorama"

@@ -1,6 +1,7 @@
 ---
 description: "Cali es una ciudad vibrante donde la cultura y el latido de la Salsa llenan el aire."
 featured_image: "/covers/blog-cover-4.jpg"
+image: "/covers/blog-cover-4.jpg"
 tags: ["blog"]
 title: "Descubre el Latir de Cali"
 date: 2023-08-15 01:30:00-05:00

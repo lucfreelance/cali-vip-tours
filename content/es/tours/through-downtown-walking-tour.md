@@ -1,7 +1,7 @@
 ---
 description: "Caminata por el Centro"
-featured_image: "covers/tour-main-cover-4.jpg"
-image: "covers/tour-main-cover-4.jpg"
+featured_image: "/covers/tour-main-cover-4.jpg"
+image: "/covers/tour-main-cover-4.jpg"
 tags: ["toures"]
 title: "Caminata por el Centro"
 ---

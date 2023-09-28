@@ -2,6 +2,7 @@
 description: "Viaje a San Cipriano - Aventura en el Tour del Río"
 featured_image: "/covers/tour-main-cover-5.jpg"
 image: "/covers/tour-main-cover-5.jpg"
+image: "/covers/blog-cover-5.jpg"
 tags: ["toures"]
 title: "Viaje a San Cipriano - Aventura en el Tour del Río"
 ---

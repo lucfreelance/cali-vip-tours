@@ -1,6 +1,6 @@
 ---
 description: "Through Downtown Walking Tour"
-featured_image: "covers/tour-main-cover-4.jpg"
+featured_image: "/covers/tour-main-cover-4.jpg"
 image: "covers/tour-main-cover-4.jpg"
 tags: ["tours"]
 title: "Through Downtown Walking Tour"

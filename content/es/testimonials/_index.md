@@ -1,6 +1,6 @@
 ---
 title: "Testimonios"
-featured_image: "/images/_testimonials-main.jpg"
+featured_image: "/covers/_testimonials-main.jpg"
 type: page
 ---
 

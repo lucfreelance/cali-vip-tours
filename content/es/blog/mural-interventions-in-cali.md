@@ -3,6 +3,7 @@ title: "Intervenciones Murales en el Centro Caleño"
 date: 2023-09-27T16:50:00-05:00
 description: "Explore la escena de murales de Cali, que promete una colorida celebración del graffiti, el arte y la cultura."
 featured_image: "/covers/blog-cover-5.jpg"
+image: "/covers/blog-cover-5.jpg"
 tags: ["blog", "graffitis"]
 draft: false
 menu:

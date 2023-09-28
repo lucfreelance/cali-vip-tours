@@ -1,7 +1,7 @@
 ---
 description: "Viaje al Valle y Eje Cafetero a través del Panorama de la Región Cafetera"
-featured_image: "covers/tour-main-cover-6.jpg"
-image: "covers/tour-main-cover-6.jpg"
+featured_image: "/covers/tour-main-cover-6.jpg"
+image: "/covers/tour-main-cover-6.jpg"
 tags: ["toures"]
 title: "Viaje al Valle y Eje Cafetero a través de Panorama"
 ---

@@ -1,6 +1,7 @@
 ---
 description: "Cali is gearing up for a unique celebration of Love and Friendship on September 15, 2023. This Colombian festivity, full of joy and affection, is a perfect opportunity to enjoy the city and share special moments with your loved ones."
 featured_image: "/covers/blog-cover-3.jpg"
+image: "/covers/blog-cover-3.jpg"
 tags: ["blog", "Celebrations"]
 title: "Love and Friendship in Cali"
 date: 2023-08-15 01:30:00-05:00

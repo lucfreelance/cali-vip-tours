@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "/images/_contact-main.jpg"
+featured_image: "/covers/_contact-main.jpg"
 omit_header_text: true
 description: Send us a message, contact us for special request or anyelse.
 type: page

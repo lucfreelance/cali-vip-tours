@@ -1,7 +1,7 @@
 ---
 description: "The Fooding Tour Alameda Market"
-featured_image: "covers/tour_main_cover_3.jpg"
-image: "covers/tour-the-fooding-tour-alameda-market-1.jpg"
+featured_image: "/covers/tour-main-cover-3.jpg"
+image: "covers/tour-main-cover-3.jpg"
 tags: ["tours"]
 title: "The Fooding Tour Alameda Market Exploration"
 disable_share: false

@@ -1,29 +1,42 @@
 ---
-title: "Events"
+title: title: "{{ replace .Name "-" " " | title }}"
 date: { { now.Format "2006-01-02T15:04:05-07:00" } }
-featured_image: ""
+featured_image: "/covers/"
+image: "/"
 description: ""
-draft: true
 type: events
 tags: ["events"]
 menu:
   main:
     weight: #
-    parent: events
-some_other_value:
-  { { .Site.Params.some_other_value | default "Default Value" } }
+    # parent: events
+draft: true
 ---
 
-{{ with .Site.GetPage "section" "Events" }}
+##
 
-  <h1>{{ .Title }}</h1>
-  {{ range .Pages }}
-    {{ with .Translations }}
-      <div class="custom-card">
-        <h2>{{ .Title }}</h2>
-        <p>{{ .Description }}</p>
-        <a href="{{ .RelPermalink }}" class="custom-button">Read more</a>
-      </div>
-    {{ end }}
-  {{ end }}
-{{ end }}
+[]
+
+> ![Cali VIP Tours](/images/) [Credit: ]
+
+---
+
+##
+
+[]
+
+> ![Cali VIP Tours](/images/) [Credit: ]
+
+---
+
+##
+
+[]
+
+> ![Cali VIP Tours](/images/) [Credit: ]
+
+---
+
+> > [CALL TO ACTION RELATIVE WITHE]
+> >
+> > > caliviptours.com

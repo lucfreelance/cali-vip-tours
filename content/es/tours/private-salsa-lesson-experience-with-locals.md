@@ -1,7 +1,7 @@
 ---
 description: "Experiencia de Clases Privadas de Salsa (Con Locales)"
-featured_image: "covers/tour-main-cover-2.jpg"
-image: "covers/tour-main-cover-2.jpg"
+featured_image: "/covers/tour-main-cover-2.jpg"
+image: "/covers/tour-main-cover-2.jpg"
 tags: ["toures"]
 title: "Experiencia de Clase Privada de Salsa"
 ---
