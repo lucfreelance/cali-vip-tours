@@ -55,4 +55,4 @@ Angie Llorente, una de las artistas contribuyentes, declaró a las cámaras de N
 > > > >
 > > > > > caliviptours.com
 
-!(https://www.cali.gov.co/movilidad/publicaciones/130232/continua-mantenimiento-del-tunel-mundialista/info/principal/media/pubInt/thumbs/thpub_700X400_130232.jpg)
+![](https://www.cali.gov.co/movilidad/publicaciones/130232/continua-mantenimiento-del-tunel-mundialista/info/principal/media/pubInt/thumbs/thpub_700X400_130232.jpg)
