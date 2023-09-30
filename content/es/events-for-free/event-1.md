@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     weight: 11
-    # parent: blog
+    parent: blog
 ---
 
 ---

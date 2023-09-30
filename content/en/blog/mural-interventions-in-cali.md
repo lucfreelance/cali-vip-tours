@@ -8,7 +8,7 @@ draft: false
 menu:
   main:
     weight: 10
-    # parent: blog
+    parent: blog
 ---
 
 ## Explore Cali's Vibrant Street Art Scene

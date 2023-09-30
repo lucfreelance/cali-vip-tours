@@ -9,7 +9,7 @@ draft: false
 menu:
   main:
     weight: 10
-    # parent: blog
+    parent: blog
 ---
 
 ## Explora la Vibrante Escena del Arte Urbano en Cali
