@@ -16,7 +16,7 @@ menu:
 
 ## Encendiendo la Innovación: La Experiencia de la Feria STEM
 
-> ![Cali](/images/events-for-free-entry-1.jpg) [Crédito: Cambio]
+> ![Cali](/images/events-entry-1.jpg) [Crédito: Cambio]
 
 La Feria Nacional STEM + Valle Verde y Sostenible, organizada en el marco del proyecto "Mejora de la Calidad Educativa a través de Tecnologías Digitales para el Aprendizaje del Siglo XXI en los municipios no certificados del Valle del Cauca," tiene como objetivo promover la innovación, la creatividad y las habilidades STEAM (Ciencia, Tecnología, Ingeniería, Artes y Matemáticas) en la comunidad educativa.
 
@@ -24,7 +24,7 @@ La Feria Nacional STEM + Valle Verde y Sostenible, organizada en el marco del pr
 
 ## Fomentando la Innovación y la Educación
 
-> ![Cali](/images/events-for-free-entry-2.jpg) [Crédito: Alcaldía de Cali]
+> ![Cali](/images/events-entry-2.jpg) [Crédito: Alcaldía de Cali]
 
 La feria sirve como un punto de encuentro para compartir ideas innovadoras, explorar las últimas tendencias tecnológicas y colaborar con entusiastas de la tecnología. Las universidades locales ofrecerán charlas pedagógicas profundas para inspirar a los asistentes a abrazar la innovación. Además, la feria destaca 32 proyectos STEAM excepcionales que están transformando la educación en el Valle del Cauca. El objetivo central del proyecto es avanzar en la educación STEAM en los municipios no certificados del Valle del Cauca, fomentando así estudiantes más preparados y centrados en la innovación.
 
@@ -32,7 +32,7 @@ La feria sirve como un punto de encuentro para compartir ideas innovadoras, expl
 
 ##
 
-> ![Cali](/images/events-for-free-entry-3.jpeg) [Crédito: ICESI]
+> ![Cali](/images/events-entry-3.jpeg) [Crédito: ICESI]
 
 Esta iniciativa es un testimonio del compromiso de educadores como María Rodríguez de la Institución Educativa Jorge Isaacs - Cerrito, quien dijo: "Estamos increíblemente orgullosos de los logros de nuestros estudiantes en STEAM, y estamos emocionados por el impacto positivo que esta experiencia podría tener en la Feria. Continuaremos promoviendo el aprendizaje basado en proyectos y la exploración creativa en el aula para inspirar a nuestros futuros científicos, ingenieros, artistas y pensadores innovadores."
 

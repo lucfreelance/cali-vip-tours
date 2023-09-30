@@ -1,10 +1,10 @@
 ---
-title: "Eventos gratuitos"
-featured_image: "/covers/_events-for-free-main.jpg"
+title: "Eventos"
+featured_image: "/covers/_events-main.jpg"
 type: events
 ---
 
-> _Explore la agenda cultural, de entretenimiento y artística de los próximos días en Cali, que presenta emocionantes eventos de forma gratuita._
+> _Explore la agenda cultural, de entretenimiento y artística de los próximos días en Cali, que presenta emocionantes eventos para nosotros._
 ---
 
 ---

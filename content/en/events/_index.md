@@ -1,10 +1,10 @@
 ---
-title: "Events for free"
-featured_image: "/covers/_events-for-free-main.jpg"
+title: "Events"
+featured_image: "/covers/_events-main.jpg"
 type: page
 ---
 
-> _Explore the cultural, entertainment, and artistic agenda for the upcoming days in Cali, featuring exciting events for free_
+> _Explore the cultural, entertainment, and artistic agenda for the upcoming days in Cali, featuring exciting events for us_
 
 ---
 
