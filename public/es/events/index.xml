@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Cali VIP Tours en Español</title>
+    <link>https://caliviptours.com/es/events/</link>
+    <description>Recent content in Eventos on Cali VIP Tours en Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caliviptours.com/es/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feria STEM en Cali</title>
+      <link>https://caliviptours.com/es/events/event-1/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caliviptours.com/es/events/event-1/</guid>
+      <description>Encendiendo la Innovación: La Experiencia de la Feria STEM  [Crédito: Cambio]
+ La Feria Nacional STEM + Valle Verde y Sostenible, organizada en el marco del proyecto &amp;ldquo;Mejora de la Calidad Educativa a través de Tecnologías Digitales para el Aprendizaje del Siglo XXI en los municipios no certificados del Valle del Cauca,&amp;rdquo; tiene como objetivo promover la innovación, la creatividad y las habilidades STEAM (Ciencia, Tecnología, Ingeniería, Artes y Matemáticas) en la comunidad educativa.</description>
+    </item>
+    
+  </channel>
+</rss>

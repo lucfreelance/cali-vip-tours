@@ -8,7 +8,19 @@ menu:
     weight: 1
 ---
 
-Bienvenido a la ciudad de Cali, donde puedes experimentar la mejor experiencia turística de esta tierra y sus alrededores. Nuestros tours están cuidadosamente diseñados para brindarte experiencias inmersivas que van más allá de las típicas atracciones turísticas. Ya sea que busques aventura, cultura o simplemente un toque del encanto único de Cali, ¡tenemos el tour perfecto para ti!
+
+> Bienvenido a la ciudad de Cali, donde puedes experimentar la mejor experiencia turística de esta tierra y sus alrededores. Nuestros tours están cuidadosamente diseñados para brindarte experiencias inmersivas que van más allá de las típicas atracciones turísticas. Ya sea que busques aventura, cultura o simplemente un toque del encanto único de Cali, ¡tenemos el tour perfecto para ti!
+>
+> Cuando exploras Cali, no estás simplemente realizando un recorrido; te estás sumergiendo en un mundo de historias fascinantes, maravillas culturales y joyas preciosas que hacen que Cali sea única. Únete a nosotros mientras descubrimos tesoros ocultos y revelamos el corazón de Cali desde una perspectiva fresca.
+> 
+> No somos solo "chicos guías turísticos"; somos narradores y entusiastas de la cultura de Cali. Nuestros tours te sumergen en la belleza, los sabores y los ritmos de Cali. Ya seas amante de la Salsa, un aficionado a la gastronomía o un explorador, tenemos la experiencia perfecta. Únete a nosotros mientras desbloqueamos los tesoros ocultos y compartimos el alma de Cali a través de nuestra lente.
+>
+> ![Cali VIP Tours](/logos/logo-trans-quarter.png)
+
+---
+
+# Nuestros Tours
+
 
 ![Cali VIP Tours](/images/tour-cali-vip-tours-1.jpg)CALI CITY THE CAPTIVATING TOUR
   | Sumérgete en la rica historia y cultura de Cali. Explora barrios históricos, visita mercados locales y disfruta de la cocina tradicional colombiana para emprender un viaje extraordinario a través del corazón y el alma de esta vibrante ciudad colombiana..
@@ -43,6 +55,5 @@ Bienvenido a la ciudad de Cali, donde puedes experimentar la mejor experiencia t
 ![Cali VIP Tours](/logos/logo-trans-mid.png)
 
 ¿Listo para divertirte con nosotros? Inicia una conversación para obtener detalles y reservar un tour y disfrutar de lo mejor del turismo que Cali y Colombia ofrecen al mundo. Quédate en casa y ten cerca a un guía de confianza en tus viajes por Cali, Colombia.
-![Cali VIP Tours](/images/tours-3.png)
 ![Cali VIP Tours](/images/tours-4.jpg)
->  {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20I%20want%20to%20book%20a%20tour,%20" >}}Reserva un Cali VIP tour{{< /whatsapp >}}
+>  {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20I%20want%20to%20book%20a%20tour,%20" >}}Reserva un tour{{< /whatsapp >}}

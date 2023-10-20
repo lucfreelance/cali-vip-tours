@@ -82,39 +82,39 @@
                 href="https://caliviptours.com/tags/"
                 />
   </url><url>
+    <loc>https://caliviptours.com/events/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://caliviptours.com/es/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caliviptours.com/events/"
+                />
+  </url><url>
     <loc>https://caliviptours.com/tags/events/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://caliviptours.com/events-for-free/</loc>
+    <loc>https://caliviptours.com/events/event-1/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://caliviptours.com/es/events-for-free/"
+                href="https://caliviptours.com/es/events/event-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caliviptours.com/events-for-free/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/events-for-free/event-1/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/events-for-free/event-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/events-for-free/event-1/"
+                href="https://caliviptours.com/events/event-1/"
                 />
   </url><url>
     <loc>https://caliviptours.com/blog/blog-2/</loc>
@@ -145,36 +145,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caliviptours.com/blog/blog-1/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/blog/blog-0/</loc>
-    <lastmod>2023-08-15T01:30:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/blog/blog-0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/blog/blog-0/"
-                />
-  </url><url>
-    <loc>https://caliviptours.com/tags/cali/</loc>
-    <lastmod>2023-08-15T01:30:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://caliviptours.com/es/tags/cali/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caliviptours.com/tags/cali/"
                 />
   </url><url>
     <loc>https://caliviptours.com/tags/celebrations/</loc>

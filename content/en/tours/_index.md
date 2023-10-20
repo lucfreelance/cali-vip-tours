@@ -8,7 +8,17 @@ menu:
     weight: 1
 ---
 
-Welcome to Cali city where you can to experiencing the best tourism experience of this land and its surroundings. Our tours are carefully crafted to provide you with immersive experiences that go beyond the typical tourist attractions. Whether you're seeking adventure, culture, or simply a taste of Cali's unique charm, we have the perfect tour for you!
+> Welcome to Cali city where you can to experiencing the best tourism experience of this land and its surroundings. Our tours are carefully crafted to provide you with immersive experiences that go beyond the typical tourist attractions. Whether you're seeking adventure, culture, or simply a taste of Cali's unique charm, we have the perfect tour for you!
+>
+> When you explore Cali, you're not just taking a tour; you're immersing yourself in a world of fascinating stories, cultural marvels, and the beauty that set Cali apart. Come with us as we uncover hidden treasures and reveal the heart of Cali from a fresh perspective.
+>
+>We're not just 'tour guide guys'; we're storytellers and Cali culture enthusiasts. Our tours immerse you in the beauty, flavors, and rhythms of Cali. Whether you're a Salsa lover, a foodie, or an explorer, Cali VIP Tours have the perfect experience for you. Take a look to our recent tours:
+> 
+> ![Cali VIP Tours](/logos/logo-trans-quarter.png)
+
+---
+
+# Our Tours
 
 ![Cali VIP Tours](/images/tour-cali-vip-tours-1.jpg)CALI CITY THE CAPTIVATING TOUR
   | Immerse yourself in the rich history and culture of Cali. Explore historic neighborhoods, visit local markets, and savor traditional Colombian cuisine to embark on an extraordinary journey through the heart and soul of this vibrant Colombian city...
@@ -43,6 +53,5 @@ Arriving in Cali? Let us make your journey stress-free with our airport pick-up 
 ![Cali VIP Tours](/logos/logo-trans-mid.png)
 
 Ready for fun with us? Start a conversation for details to book a tour for to have a rush of the best tourism that Cali and Colombia offers to the world. Stay inside and keep close with a trustable guide. We're about to change the colombian tourism culture.
-![Cali VIP Tours](/images/tours-3.png)
 ![Cali VIP Tours](/images/tours-4.jpg)
->  {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20I%20want%20to%20book%20a%20tour,%20" >}}Book a Cali VIP tour{{< /whatsapp >}}
+>  {{< whatsapp url="https://wa.me/573175006706?text=Hello,%20I%20want%20to%20book%20a%20tour,%20" >}}Book a tour{{< /whatsapp >}}
